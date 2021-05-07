@@ -18,25 +18,25 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: pi, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: phd, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="role: undergrad, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: programmer, group: current"
 %}
 {:.center}
 

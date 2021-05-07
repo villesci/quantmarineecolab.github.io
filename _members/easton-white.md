@@ -3,6 +3,7 @@ name: Easton R. White
 image: images/easton.jpg
 description: Principle Investigator 
 role: pi
+group: current
 aliases:
   - E.R. White
   - E. White

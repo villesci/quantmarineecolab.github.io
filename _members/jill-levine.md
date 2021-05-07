@@ -3,6 +3,7 @@ name: Jill Levine
 image: images/jill_levine.jpg
 description: Undergraduate researcher
 role: undergrad
+group: current
 aliases:
   - J. Levine
   - Jill Levine
