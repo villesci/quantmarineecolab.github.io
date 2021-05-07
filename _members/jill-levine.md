@@ -1,11 +1,13 @@
 ---
-title: Jill Levine
+name: Jill Levine
 image: images/jill_levine.jpg
+description: Undergraduate researcher
 role: undergrad
 aliases:
   - J. Levine
   - Jill Levine
-email: Jill.S.Levine@uvm.edu
+links:
+  email: Jill.S.Levine@uvm.edu
 ---
 
 Jill Levine is finishing her junior year at the University of Vermont where she studies both forestry and biology. After college, she plans on continuing her education. She is considering a career in medicine or natural resources, but hopes that she can combine the two. She chose her biology major because of her interest in medicine and marine biology, both stemming from separate courses in high school. Her forestry background, however, began her sophomore year at UVM when she decided she wanted to expand her knowledge on the environment and its’ impacts. 

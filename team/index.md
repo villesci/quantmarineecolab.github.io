@@ -58,29 +58,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Alumni 
 
+
+These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
+
 {% include section.html %}
-
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd group: alum"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd group: alum"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd group: alum"
-%}
-{:.center}
-
 
 
 ## Funding
