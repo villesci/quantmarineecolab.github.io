@@ -1,10 +1,10 @@
 ---
-title: New Paper: The effect of COVID-19 on US seafood and fisheries
+title: New Paper - The effect of COVID-19 on US seafood and fisheries
 tags: 
   - publication
   - covid
   - seafood
-author: Easton White
+author: Easton R. White
 member: easton-white
 ---
 
