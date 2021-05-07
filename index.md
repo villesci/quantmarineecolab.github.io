@@ -10,15 +10,12 @@ The Quantitative Marine Ecology lab at the [University of New Hampshire](https:/
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
-
 {% include section.html %}
 
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We strive to make our work accessible and freely available to other scientists, decision makers, and the general public. Open and reproducible science is a key part of the lab culture. 
 
 [See what we've published &nbsp;→](research)
 {:.center}
@@ -26,30 +23,15 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/latest_150.png"
   link="research"
   headline="Our Research"
   text=text
 %}
 
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[See our resources &nbsp;→](resources)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  headline="Our Resources"
-  text=text
-%}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of scientists that address both basic and applied questions in marine systems. We strive to build an inclusive environment in order to foster a more diverse, equitable, and productive scientific workforce. 
 
 [Meet our team &nbsp;→](team)
 {:.center}
@@ -57,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_stock.jpg"
   link="team"
   headline="Our Team"
   text=text
@@ -68,4 +50,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- section full -->
 
-{% include banner.html image="images/homepage_bottom.png" %}
