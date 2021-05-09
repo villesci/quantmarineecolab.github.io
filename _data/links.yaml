@@ -96,6 +96,13 @@ linkedin:
 
 journal:
   icon: far fa-newspaper
+  text: pdf
+  tooltip: pdf
+  link: $LINK
+
+
+journal:
+  icon: far fa-newspaper
   text: Journal
   tooltip: Journal
   link: $LINK

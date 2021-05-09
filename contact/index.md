@@ -39,7 +39,7 @@ We are located on the 2th floor of the Spaulding Hall.
 %}
 {:.center}
 
-{% include section.html %}
+
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
