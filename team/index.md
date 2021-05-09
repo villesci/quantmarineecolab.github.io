@@ -84,7 +84,7 @@ Our work is made possible by funding from several organizations.
   link2="https://www.uvm.edu/gund"
   tooltip2="Gund Institute"
 
-  image3="images/fulbright-logo.jpg"
+  image3="images/fulbright-logo.png"
   link3="https://cies.org/"
   tooltip3="Fulbright Program"
 
