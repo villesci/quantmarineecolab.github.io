@@ -76,8 +76,8 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/NSF_logo.png"
-  link1="nsf.gov/"
+  image1="images/NSF_Logo.png"
+  link1="https://www.nsf.gov/"
   tooltip1="National Science Foundation"
 
   image2="images/Gund_logo.png"
@@ -91,5 +91,9 @@ Our work is made possible by funding from several organizations.
   image4="images/cdf_logo.jpg"
   link4="https://darwinfoundation.org/en//"
   tooltip4="Charles Darwin Foundation"
+  
+  image5="images/unh_logo.png"
+  link5="https://www.unh.edu/"
+  tooltip5="University of New Hampshire"
 
 %}
