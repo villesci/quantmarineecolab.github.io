@@ -45,6 +45,25 @@
   - COVID-19
   - fisheries
   - seafood
+- id: 10.1016/j.marpol.2014.03.012
+  title: The limitations of diversity metrics in directing global marine conservation
+  authors:
+  - James P.W. Robinson
+  - Easton R. White
+  - Logan D. Wiwchar
+  - Danielle C. Claar
+  - Justin P. Suraci
+  - Julia K. Baum
+  publisher: Marine Policy
+  date: '2014-09-01'
+  link: https://doi.org/gjxmmp
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Robinson_etal_MarinePol.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2014_Robinson_etal_MarinePol.pdf
+  tags:
+  - conservation
+  - biodiversity
 - id: 10.1111/1365-2664.12177
   title: 'Two-sex matrix models in assessing population viability: when do male dynamics
     matter?'
@@ -57,7 +76,7 @@
   image: https://quantmarineecolab.github.io/images/journal_covers/2014_GerberWhite_JAppEco.png
   extra-links:
   - type: pdf
-    link: pdfs/2014_GerberWhite_JAppEco.png
+    link: pdfs/2014_GerberWhite_JAppEco.pdf
   tags:
   - conservation
   - population model
