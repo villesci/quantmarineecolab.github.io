@@ -1,47 +1,24 @@
----
-layout: default
----
-
-
-<h1>{{ page.title }}</h1>
-
-{% include figure.html image=page.image width="200px" %}
-
-<p class="center">
-  {%- include role.html type=page.role text=true description=page.description -%}
-</p>
-
-<p class="center">
-  {%- for entry in page.links -%}
-    {%- assign key = entry[0] -%}
-    {%- assign value = entry[1] -%}
-    {%- include link.html type=key icon="" text="" tooltip="" link=value -%}
-  {%- endfor -%}
-</p>
-
-{{ content }}
-
-{%- assign aliases = "" | split: ',' -%}
-
-{%- if page.aliases.first -%}
-  {%- assign aliases = aliases | concat: page.aliases -%}
-{%- elsif page.aliases -%}
-  {%- assign aliases = aliases | push: page.aliases -%}
-{%- elsif page.title -%}
-  {%- assign aliases = aliases | push: page.title -%}
-{%- endif -%}
-
-{%- capture search -%}
-  {%- for name in aliases -%}"{{ name }}" {%- endfor -%}
-{%- endcapture -%}
-
-{%- assign search = search | strip | prepend: "/research/?search=" -%}
-
-{%- capture text -%}
-  {{ page.title }}'s papers
-{%- endcapture -%}
-
-
-<p class="center">
-  {%- include link.html icon="fas fa-book-open" text=text link=search style="button" -%}
-</p>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1671.5">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">--- layout: default ---</span></p>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; line-height: 28.0px; font: 24.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title }}</b></span></h1>
+<p class="p1"><span class="s1">{% include figure.html image=page.image width="200px" %}</span></p>
+<p class="p3"><span class="s1">{%- include role.html type=page.role text=true description=page.description -%}<span class="Apple-converted-space"> </span></span></p>
+<p class="p3"><span class="s1">{%- for entry in page.links -%} {%- assign key = entry[0] -%} {%- assign value = entry[1] -%} {%- include link.html type=key icon="" text="" tooltip="" link=value -%} {%- endfor -%}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{{ content }} {%- assign aliases = "" | split: ',' -%} {%- if page.aliases.first -%} {%- assign aliases = aliases | concat: page.aliases -%} {%- elsif page.aliases -%} {%- assign aliases = aliases | push: page.aliases -%} {%- elsif page.title -%} {%- assign aliases = aliases | push: page.title -%} {%- endif -%} {%- capture search -%} {%- for name in aliases -%}"{{ name }}" {%- endfor -%} {%- endcapture -%} {%- assign search = search | strip | prepend: “/publications/?search=" -%} {%- capture text -%} {{ page.title }}'s papers {%- endcapture -%}</span></p>
+<p class="p3"><span class="s1">{%- include link.html icon="fas fa-book-open" text=text link=search style="button" -%}<span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>
