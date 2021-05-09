@@ -45,6 +45,89 @@
   - COVID-19
   - fisheries
   - seafood
+- id: 10.1002/ecy.2546
+  title: The role of spatial structure in the collapse of regional metapopulations
+  authors:
+  - Easton R. White
+  - Andrew T. Smith
+  publisher: Ecology
+  date: '2018-11-19'
+  link: https://doi.org/gfgp9f
+  image: https://quantmarineecolab.github.io/images/journal_covers/2018_WhiteSmith_Ecology.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2018_WhiteSmith_Ecology.pdf
+  - type: source
+    link: https://github.com/eastonwhite/BodiePikaMetapop
+    text: Code
+  tags:
+  - pikas
+  - spatial ecology
+  - conservation
+- id: 10.1111/cobi.12478
+  title: Shifting elasmobranch community assemblage at Cocos Island-an isolated marine
+    protected area
+  authors:
+  - Easton R. White
+  - Mark C. Myers
+  - Joanna Mills Flemming
+  - Julia K. Baum
+  publisher: Conservation Biology
+  date: '2015-08-01'
+  link: https://doi.org/f7j6d5
+  image: https://quantmarineecolab.github.io/images/journal_covers/2015_White_etal_ConBio.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2015_White_etal_ConBio.pdf
+  - type: source
+    link: https://github.com/eastonwhite/Cocos_Models
+    text: Code
+  tags:
+  - sharks and rays
+  - marine protected areas
+  - conservation
+- id: 10.1186/1745-6150-9-23
+  title: Modeling the population dynamics of lemon sharks
+  authors:
+  - Easton R White
+  - John D Nagy
+  - Samuel H Gruber
+  publisher: Biology Direct
+  date: '2014-01-01'
+  link: https://doi.org/gb9fr2
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_White_etal_BiologyDirect.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2014_White_etal_BiologyDirect.pdf
+  - type: source
+    link: https://github.com/eastonwhite/LemonShark_Models
+    text: Code
+  tags:
+  - sharks and rays
+  - population model
+  - conservation
+- id: 10.3354/meps10966
+  title: Predictable temperature-regulated residency, movement and migration in a
+    large, highly mobile marine predator (Negaprion brevirostris)
+  authors:
+  - ST Kessel
+  - DD Chapman
+  - BR Franks
+  - T Gedamke
+  - SH Gruber
+  - JM Newman
+  - ER White
+  - RG Perkins
+  publisher: Marine Ecology Progress Series
+  date: '2014-11-06'
+  link: https://doi.org/f6r25f
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2014_Kessel_etal_MEPS.pdf
+  tags:
+  - sharks and rays
+  - seasonality
 - id: 10.1016/j.marpol.2014.03.012
   title: The limitations of diversity metrics in directing global marine conservation
   authors:
