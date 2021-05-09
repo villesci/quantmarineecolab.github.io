@@ -26,7 +26,72 @@
     - COVID-19
     - fisheries
     - seafood
+
+
+- id: 10.1002/ecy.2546
+  image: https://quantmarineecolab.github.io/images/journal_covers/2018_WhiteSmith_Ecology.pdf
+  extra-links:
+    - type: pdf
+      link: pdfs/2018_WhiteSmith_Ecology.png
+    - type: source
+      link: https://github.com/eastonwhite/BodiePikaMetapop
+      text: Code
+  tags:
+    - pikas
+    - spatial ecology
+    - conservation
+
       
+
+- id: 10.1186/1745-6150-9-23
+  image: https://quantmarineecolab.github.io/images/journal_covers/2015_White_etal_ConBio.pdf
+  extra-links:
+    - type: pdf
+      link: pdfs/2015_White_etal_ConBio.png
+    - type: source
+      link: https://github.com/eastonwhite/Cocos_Models
+      text: Code
+  tags:
+    - sharks and rays
+    - marine protected areas
+    - conservation
+
+
+
+- id: 10.1186/1745-6150-9-23
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_White_etal_BiologyDirect.pdf
+  extra-links:
+    - type: pdf
+      link: pdfs/2014_White_etal_BiologyDirect.png
+    - type: source
+      link: https://github.com/eastonwhite/LemonShark_Models
+      text: Code
+  tags:
+    - sharks and rays
+    - population model
+    - conservation
+
+
+- id: 10.3354/meps10966
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.pdf
+  extra-links:
+    - type: pdf
+      link: pdfs/2014_Kessel_etal_MEPS.png
+  tags:
+    - sharks and rays
+    - seasonality
+
+
+
+
+- id: 10.1016/j.marpol.2014.03.012
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Robinson_etal_MarinePol.pdf
+  extra-links:
+    - type: pdf
+      link: pdfs/2014_Robinson_etal_MarinePol.png
+  tags:
+    - conservation
+    - biodiversity
 
 
 
