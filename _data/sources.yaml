@@ -32,16 +32,13 @@
 
 
 - id: 10.1111/1365-2664.12177
-  image: https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/blob/main/images/journal_covers/2014_Senko_et_al_AnimConserv.png
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_GerberWhite_JAppEco.png
   extra-links:
     - type: pdf
-      link: pdfs/2014_Senko_et_al_AnimConserv.pdf
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Code
+      link: pdfs/2014_GerberWhite_JAppEco.png
   tags:
     - conservation
-    - fisheries
+    - population model
 
 
 
@@ -50,9 +47,6 @@
   extra-links:
     - type: pdf
       link: pdfs/2014_Senko_et_al_AnimConserv.pdf
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Code
   tags:
     - conservation
     - fisheries
