@@ -45,6 +45,25 @@
   - COVID-19
   - fisheries
   - seafood
+- id: 10.1111/1365-2664.12177
+  title: 'Two-sex matrix models in assessing population viability: when do male dynamics
+    matter?'
+  authors:
+  - Leah R. Gerber
+  - Easton R. White
+  publisher: Journal of Applied Ecology
+  date: '2014-02-01'
+  link: https://doi.org/f5ptsb
+  image: https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/blob/main/images/journal_covers/2014_Senko_et_al_AnimConserv.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2014_Senko_et_al_AnimConserv.pdf
+  - type: source
+    link: https://github.com/greenelab/scihub-manuscript
+    text: Code
+  tags:
+  - conservation
+  - fisheries
 - id: 10.1111/acv.12051
   title: Comparing bycatch mitigation strategies for vulnerable marine megafauna
   authors:
@@ -55,7 +74,7 @@
   publisher: Animal Conservation
   date: '2014-02-01'
   link: https://doi.org/f5pv2x
-  image: journal_covers/2014_Senko_et_al_AnimConserv.png
+  image: https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/blob/main/images/journal_covers/2014_Senko_et_al_AnimConserv.png
   extra-links:
   - type: pdf
     link: pdfs/2014_Senko_et_al_AnimConserv.pdf
