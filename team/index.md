@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our lab is made up of a collaborative and diverse team of scientists. We value and actively work to create a lab, university, and community that is more diverse, inclusive, and equitable.
 
 {% include section.html %}
 
@@ -24,7 +21,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd, group: current"
+  filters="role: grad, group: current"
 %}
 {%
   include list.html
@@ -42,8 +39,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+There are often openings for graduate students and postdoctoral fellows within the Quantitative Marine Ecology Lab. Please see the link below for more information. 
 
 {%
   include link.html
@@ -80,27 +76,20 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/NSF_logo.png"
+  link1="nsf.gov/"
+  tooltip1="National Science Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/Gund_logo.png"
+  link2="https://www.uvm.edu/gund"
+  tooltip2="Gund Institute"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/fulbright-logo.jpg"
+  link3="https://cies.org/"
+  tooltip3="Fulbright Program"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
+  image4="images/cdf_logo.jpg"
+  link4="https://darwinfoundation.org/en//"
+  tooltip4="Charles Darwin Foundation"
 
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
 %}
