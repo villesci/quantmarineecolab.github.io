@@ -79,3 +79,7 @@ plugins:
 
 # jekyll theme
 theme: null
+
+
+# Google Analytics
+google_analytics: G-QF28DYFVNL
