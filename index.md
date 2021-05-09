@@ -7,8 +7,13 @@ title: Home
 
 The Quantitative Marine Ecology lab at the [University of New Hampshire](https://colsa.unh.edu/biological-sciences) is a team of scientists using mathematical and statistical tools to address the most pressing issues in the oceans. We address questions related to population ecology, socio-ecological systems, species monitoring, and sustainable seafood. A common thread throughout our work is the role of environmental variability, particularly rare events like heatwaves or global pandemics. We currently conduct research in Madagascar, the Eastern Tropical Pacific, and New Hampshire.
 
+{%
+  include figure.html
+  image="images/lab_logo_bw.png"
+  width="75%"
+%}
 
-{% include section.html full=true %}
+
 
 {% include section.html %}
 
