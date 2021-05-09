@@ -29,10 +29,10 @@
 
 
 - id: 10.1002/ecy.2546
-  image: https://quantmarineecolab.github.io/images/journal_covers/2018_WhiteSmith_Ecology.pdf
+  image: https://quantmarineecolab.github.io/images/journal_covers/2018_WhiteSmith_Ecology.png
   extra-links:
     - type: pdf
-      link: pdfs/2018_WhiteSmith_Ecology.png
+      link: pdfs/2018_WhiteSmith_Ecology.pdf
     - type: source
       link: https://github.com/eastonwhite/BodiePikaMetapop
       text: Code
@@ -44,10 +44,10 @@
       
 
 - id: 10.1186/1745-6150-9-23
-  image: https://quantmarineecolab.github.io/images/journal_covers/2015_White_etal_ConBio.pdf
+  image: https://quantmarineecolab.github.io/images/journal_covers/2015_White_etal_ConBio.png
   extra-links:
     - type: pdf
-      link: pdfs/2015_White_etal_ConBio.png
+      link: pdfs/2015_White_etal_ConBio.pdf
     - type: source
       link: https://github.com/eastonwhite/Cocos_Models
       text: Code
@@ -59,10 +59,10 @@
 
 
 - id: 10.1186/1745-6150-9-23
-  image: https://quantmarineecolab.github.io/images/journal_covers/2014_White_etal_BiologyDirect.pdf
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_White_etal_BiologyDirect.png
   extra-links:
     - type: pdf
-      link: pdfs/2014_White_etal_BiologyDirect.png
+      link: pdfs/2014_White_etal_BiologyDirect.pdf
     - type: source
       link: https://github.com/eastonwhite/LemonShark_Models
       text: Code
@@ -73,10 +73,10 @@
 
 
 - id: 10.3354/meps10966
-  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.pdf
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
   extra-links:
     - type: pdf
-      link: pdfs/2014_Kessel_etal_MEPS.png
+      link: pdfs/2014_Kessel_etal_MEPS.pdf
   tags:
     - sharks and rays
     - seasonality
@@ -85,10 +85,10 @@
 
 
 - id: 10.1016/j.marpol.2014.03.012
-  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Robinson_etal_MarinePol.pdf
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Robinson_etal_MarinePol.png
   extra-links:
     - type: pdf
-      link: pdfs/2014_Robinson_etal_MarinePol.png
+      link: pdfs/2014_Robinson_etal_MarinePol.pdf
   tags:
     - conservation
     - biodiversity
@@ -100,7 +100,7 @@
   image: https://quantmarineecolab.github.io/images/journal_covers/2014_GerberWhite_JAppEco.png
   extra-links:
     - type: pdf
-      link: pdfs/2014_GerberWhite_JAppEco.png
+      link: pdfs/2014_GerberWhite_JAppEco.pdf
   tags:
     - conservation
     - population model
