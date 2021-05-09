@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Quantitative Marine Ecology Lab
-description: Lab description here
+description: quantitative ecology, fisheries, seafood, socio-ecological systems, science education
 header: images/background.png
 footer: images/background.png
 
@@ -21,7 +21,7 @@ nav:
 
 
 # base directory where site is hosted
-logo: images/lab_logo_bw.png
+logo: 
 header: images/background.png
 footer: images/background.png
 baseurl: /

@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Biological Sciences](https://colsa.unh.edu/biological-sciences), at the [University of New Hampshire] (https://colsa.unh.edu/biological-sciences).
+Our lab is part of the [Department of Biological Sciences](https://colsa.unh.edu/biological-sciences), at the [University of New Hampshire](https://www.unh.edu/). We are also affiliated with the [School of Marine Science and Ocean Engineering](https://marine.unh.edu/).
 We are located on the 2th floor of the Spaulding Hall.
 
 {%
@@ -52,7 +52,8 @@ Durham, NH 03824
 
 {%
   include figure.html
-  image="images/thompson.jpg"
+  image="images/lab_logo_bw.png"
   width="75%"
-  caption="Thompson Hall at UNH"
 %}
+
+

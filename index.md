@@ -23,7 +23,7 @@ We strive to make our work accessible and freely available to other scientists, 
 
 {%
   include feature.html
-  image="images/latest_150.png"
+  image="images/research_venn.png"
   link="research"
   headline="Our Research"
   text=text
