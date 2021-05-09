@@ -45,28 +45,23 @@
   - COVID-19
   - fisheries
   - seafood
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: 10.1111/acv.12051
+  title: Comparing bycatch mitigation strategies for vulnerable marine megafauna
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - J. Senko
+  - E. R. White
+  - S. S. Heppell
+  - L. R. Gerber
+  publisher: Animal Conservation
+  date: '2014-02-01'
+  link: https://doi.org/f5pv2x
+  image: journal_covers/2014_Senko_et_al_AnimConserv.png
   extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
+  - type: pdf
+    link: pdfs/2014_Senko_et_al_AnimConserv.pdf
   - type: source
     link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+    text: Code
+  tags:
+  - conservation
+  - fisheries
