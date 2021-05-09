@@ -15,7 +15,7 @@ Members of the lab are strongly committed to anti-racist practices, real diversi
 
 ## Graduate students
 
-I am currently looking to recruit a M.S. student (to start Fall 2021) to work on one of three possible questions: 1) small scale fisheries management, 2) the role of extreme events in ecological systems, or 3) the effect of COVID-19 on sustainable seafood. I will be recruiting both M.S. and Ph.D. students for Fall 2022. Experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work is needed. A basic understanding of Spanish is a plus. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. I am also open to chatting about potential projects related to other areas of my research program. 
+I am currently looking to recruit a M.S. student (to start Fall 2021) to work on one of three possible questions: 1) small scale fisheries management, 2) the role of extreme events in marine systems, or 3) the effect of COVID-19 on sustainable seafood. I will also be recruiting both M.S. and Ph.D. students for Fall 2022. Experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work is needed. A basic understanding of Spanish is a plus. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. I am also open to chatting about potential projects related to other areas of my research program. 
 
 I can accept students through [UNH's Biological Sciences MS and PhD programs.](https://colsa.unh.edu/biological-sciences) There are options within these programs in both Integrative and Organismal Biology (IOB) and Marine Biology (MB). The priority deadline for Fall admission is January 15th each year. If you are interested in working with me, I strongly recommended that you reach out to me before applying for graduate study. Graduate work is typically funded through a combination of fellowships, research positions, and teaching assistantships. 
 
@@ -31,6 +31,7 @@ I am looking for postdoctoral fellows to work on questions related to fisheries 
 - [Schmidt Science Fellows postdoctoral program](https://schmidtsciencefellows.org/selection/)
 - [Smith Fellowship program](https://conbio.org/mini-sites/smith-fellows) - Conservation-focused award due in October each year
 - [JSMF's Understanding Dynamic and Multi-scale Systems program](https://www.jsmf.org/apply/fellowship/) - Postdoc fellowship due in June each year
+- [JHU Early career researcher funding database](https://research.jhu.edu/rdt/funding-opportunities/early-career/) 
 
 If you are interested, please send an email and CV to Easton White (<Easton.White@unh.edu>). 
 

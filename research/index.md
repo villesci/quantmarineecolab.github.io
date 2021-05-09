@@ -1,21 +1,26 @@
 ---
 title: Research
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
 ---
 
-# <i class="fas fa-microscope"></i>Publications
+# <i class="fas research"></i>Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Environmental variability can occur on daily to decadal time scales. This variability can include natural variation, such as changes in seasons, or anthropogenic events like oil spills. Of course, these various forms of environmental variability shape ecosystems, and, consequently, the human communities that depend on them. In addition, climate change is expected to increase variability and uncertainty of these environmental factors. My research program addresses questions that fall within the Venn diagram above: 
 
-{% include section.html %}
+1. How does environmental variability, particularly rare events like heatwaves or algal blooms, affect the ecology and population dynamics of various species?
 
-{% include search-box.html %}
+2. How can we improve population monitoring programs given uncertainty?
 
-{% include search-info.html %}
+3. How can incorporating uncertainty in models help us make better decisions about fisheries and the conservation of endangered species? 
 
-{% include list.html data="citations" component="citation" style="rich" %}
+4. How are natural-human systems affected by environmental variability and how can we ensure they are robust to shocks, like the current COVID-19 pandemic?
+I address these questions using a variety of mathematical and statistical tools as well as long-term field studies. I have current projects focused on socio-ecological systems, environmental variability and population dynamics, improving monitoring programs, and designing marine reserve networks. In addition to biology-focused work, I have also conducted research on pedagogy.
+
+
+{%
+  include feature.html
+  image="images/research_venn.png"
+  headline="Research interests"
+  text=text
+%}

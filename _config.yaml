@@ -1,16 +1,18 @@
 # site properties and page defaults
 title: Quantitative Marine Ecology Lab
 description: Lab description here
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background.png
+footer: images/background.png
 
 # site nav bar
 nav:
   - link: publications
     tooltip: Published works
+  - research:
+    tooltip: Research interests
   - link: team
     tooltip: About our team
-  - link: blog
+  - link: news
     tooltip: News and commentary
   - link: join
     tooltip: Join the lab
@@ -20,8 +22,8 @@ nav:
 
 # base directory where site is hosted
 logo: images/lab_logo_bw.png
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background.png
+footer: images/background.png
 baseurl: /
 
 # site social media and other links
