@@ -1,12 +1,12 @@
 ---
-name: Julia Saltman
+name: Julia Saltzman
 image: images/member.jpg
 description: Sharks | Fisheries | Education
 role: grad
 group: current
 aliases:
   - J. Saltzman
-  - Julia Saltman
+  - Julia Saltzman
 links:
   email: jrs1231@wildcats.unh.edu
   twitter: saltzyy

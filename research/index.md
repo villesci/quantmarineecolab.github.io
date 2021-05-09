@@ -6,6 +6,11 @@ nav:
 
 # <i class="fas research"></i>Research
 
+{%
+  include feature.html
+  image="images/research_venn.png"
+%}
+
 Environmental variability can occur on daily to decadal time scales. This variability can include natural variation, such as changes in seasons, or anthropogenic events like oil spills. Of course, these various forms of environmental variability shape ecosystems, and, consequently, the human communities that depend on them. In addition, climate change is expected to increase variability and uncertainty of these environmental factors. My research program addresses questions that fall within the Venn diagram above: 
 
 1. How does environmental variability, particularly rare events like heatwaves or algal blooms, affect the ecology and population dynamics of various species?
@@ -18,9 +23,3 @@ Environmental variability can occur on daily to decadal time scales. This variab
 I address these questions using a variety of mathematical and statistical tools as well as long-term field studies. I have current projects focused on socio-ecological systems, environmental variability and population dynamics, improving monitoring programs, and designing marine reserve networks. In addition to biology-focused work, I have also conducted research on pedagogy.
 
 
-{%
-  include feature.html
-  image="images/research_venn.png"
-  headline="Research interests"
-  text=text
-%}
