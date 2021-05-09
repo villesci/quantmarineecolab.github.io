@@ -94,7 +94,7 @@ linkedin:
 
 # publications
 
-journal:
+pdf:
   icon: far fa-newspaper
   text: pdf
   tooltip: pdf
