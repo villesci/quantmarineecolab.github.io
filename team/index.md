@@ -37,7 +37,6 @@ Our lab is made up of a collaborative and diverse team of scientists. We value a
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
 
 There are often openings for graduate students and postdoctoral fellows within the Quantitative Marine Ecology Lab. Please see the link below for more information. 
 
@@ -52,6 +51,8 @@ There are often openings for graduate students and postdoctoral fellows within t
 
 {% include section.html %}
 
+
+<!--
 ## Alumni 
 
 
@@ -65,6 +66,7 @@ These are past lab members who have moved on to other school programs, new jobs,
 {% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
 
 {% include section.html %}
+-->
 
 
 ## Funding

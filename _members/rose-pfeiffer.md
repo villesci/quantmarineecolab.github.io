@@ -1,6 +1,6 @@
 ---
 name: Rose Pfeiffer
-image: mages/member.jpg
+image: images/member.jpg
 description: Undergraduate researcher
 role: undergrad
 group: current
