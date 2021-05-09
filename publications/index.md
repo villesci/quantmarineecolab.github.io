@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We publish most of our work in both preprint journals and peer-reviewed journals. Where possible, we have also included links to data and code used in each paper. Please reach out if you have any questions or thoughts on our work. 
 
 {% include section.html %}
 
