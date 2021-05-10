@@ -1,6 +1,6 @@
 ---
 name: Rose Pfeiffer
-image: images/member.jpg
+image: images/rose-pfeiffer.jpg
 description: Undergraduate researcher
 role: undergrad
 group: current
@@ -12,4 +12,4 @@ links:
   twitter: rppfeiffer
 ---
 
-Rose Pfeiffer is currently an undergraduate at the University of Vermont. She is studying how COVID-19 is affected US fisheries. 
+Rose Pfeiffer is currently an undergraduate at the University of Vermont. She is studying how COVID-19 is affecting US fisheries. 
