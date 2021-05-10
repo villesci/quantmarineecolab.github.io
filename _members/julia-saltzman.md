@@ -1,6 +1,6 @@
 ---
 name: Julia Saltzman
-image: images/member.jpg
+image: images/julia-saltzman.jpg
 description: Graduate student
 role: grad
 group: current
