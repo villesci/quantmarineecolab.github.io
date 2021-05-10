@@ -16,6 +16,11 @@ All lab members must be:
 
 Members of the lab are strongly committed to anti-racist practices, real diversity and inclusion efforts, and moving science beyond the ivory tower.
 
+## Commitment to diversity, inclusion, and equity
+
+One of my main commitments as a faculty member is promoting and supporting diversity, equity, and inclusion in STEM. Please consider applying for a position in my lab if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability.
+
+
 ## Graduate students
 
 I am currently looking to recruit a M.S. student (to start Fall 2021) to work on one of three possible questions: 1) small scale fisheries management, 2) the role of extreme events in marine systems, or 3) the effect of COVID-19 on sustainable seafood. I will also be recruiting both M.S. and Ph.D. students for Fall 2022. Experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work is needed. A basic understanding of Spanish is a plus. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. I am also open to chatting about potential projects related to other areas of my research program. 
@@ -39,9 +44,7 @@ I am looking for postdoctoral fellows to work on questions related to fisheries 
 If you are interested, please send an email and CV to Easton White (<Easton.White@unh.edu>). 
 
 
-# Commitment to diversity, inclusion, and equity
 
-One of my main commitments as a faculty member is promoting and supporting diversity, equity, and inclusion in STEM. Please consider applying for a position in my lab if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability.
 
 
 # Other positions at UNH
