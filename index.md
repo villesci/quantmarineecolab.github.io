@@ -10,12 +10,12 @@ The Quantitative Marine Ecology lab at the [University of New Hampshire](https:/
 {%
   include figure.html
   image="images/lab_logo_bw.png"
-  width="75%"
+  width="55%"
 %}
 
 
 
-{% include section.html %}
+
 
 # Highlights
 
