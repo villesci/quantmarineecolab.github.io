@@ -1,7 +1,7 @@
 ---
 name: Julia Saltzman
 image: images/member.jpg
-description: Sharks | Fisheries | Education
+description: Graduate student
 role: grad
 group: current
 aliases:

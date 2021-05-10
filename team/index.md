@@ -9,7 +9,6 @@ nav:
 
 Our lab is made up of a collaborative and diverse team of scientists. We value and actively work to create a lab, university, and community that is more diverse, inclusive, and equitable.
 
-{% include section.html %}
 
 {%
   include list.html
