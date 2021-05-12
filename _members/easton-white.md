@@ -19,4 +19,4 @@ I am a quantitative marine ecologist who uses mathematical and statistical tools
 
 I currently conduct research on assessing the effectiveness of protected area networks, improving species monitoring programs, and modeling socio-ecological systems in the context of fisheries. My work centers on how environmental variability, in particular rare events (e.g., hurricanes, COVID-19 pandemic), affects ecosystems and those that depend on them. My current work is funded through a NSF grant focused on interdisciplinary approaches to study coupled natural-human systems with Madagascar fisheries as a case study.
 
-[Easton's CV as a pdf](pdfs/EastonWhite_CV.pdf)
+[Easton's CV as a pdf](https://quantmarineecolab.github.io/pdfs/EastonWhite_CV.pdf)
