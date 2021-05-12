@@ -30,7 +30,7 @@ I can accept students through [UNH's Biological Sciences MS and PhD programs.](h
 
 ## Postdoctoral fellows
 
-I am looking for postdoctoral fellows to work on questions related to fisheries and disturbances, mathematical modeling of disturbances and socio-environmental systems, improving population monitoring and data collection, sustainable seafood, or synthesizing across socio-environmental fisheries. My background is in quantitative ecology with an emphasis on marine systems. However, my interests are broad and I am happy to discuss other project ideas further. I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs.
+Conditional on funding, I will likely soon be looking for postdoctoral fellows to work on questions related to fisheries and disturbances, mathematical modeling of disturbances and socio-environmental systems, improving population monitoring and data collection, sustainable seafood, or synthesizing across socio-environmental fisheries. My background is in quantitative ecology with an emphasis on marine systems. However, my interests are broad and I am happy to discuss other project ideas further. I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs.
 
 - [Gund postdoctoral fellow program (based at the University of Vermont)](http://go.uvm.edu/nia9k) - due Nov 11th
 - [NSF Ocean Sciences postdoctoral fellow program (based anywhere)](https://www.nsf.gov/pubs/2021/nsf21538/nsf21538.htm) - Due Mar 3rd 
