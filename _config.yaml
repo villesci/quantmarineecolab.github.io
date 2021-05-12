@@ -10,6 +10,8 @@ nav:
     tooltip: Published works
   - research:
     tooltip: Research interests
+  - teaching:
+    tooltip: Teaching
   - link: team
     tooltip: About our team
   - link: news
