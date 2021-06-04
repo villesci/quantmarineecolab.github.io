@@ -1,5 +1,24 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1016/j.ecoinf.2021.101336
+  title: 'The broken window: An algorithm for quantifying and characterizing misleading
+    trajectories in ecological processes'
+  authors:
+  - Christie A. Bahlai
+  - Easton R. White
+  - Julia D. Perrone
+  - Sarah Cusser
+  - Kaitlin Stack Whitney
+  publisher: Ecological Informatics
+  date: '2021-05-01'
+  link: https://doi.org/gkdj53
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Bahlai_etal_EcoInformatics.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2021_Bahlai_etal_EcoInformatics.pdf
+  tags:
+  - monitoring
+  - time series
 - id: 10.3389/fsufs.2021.614368
   title: 'Alternative Seafood Networks During COVID-19: Implications for Resilience
     and Sustainability'
