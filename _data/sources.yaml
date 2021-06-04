@@ -1,4 +1,15 @@
 
+- id: 10.1016/j.ecoinf.2021.101336
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Bahlai_etal_EcoInformatics.jpg
+  extra-links:
+    - type: pdf
+      link: pdfs/2021_Bahlai_etal_EcoInformatics.pdf
+  tags:
+    - monitoring
+    - time series
+
+
+
 - id: 10.3389/fsufs.2021.614368
   image: https://quantmarineecolab.github.io/images/journal_covers/2021_Stoll_et_al_FrontSustFood.png
   extra-links:
