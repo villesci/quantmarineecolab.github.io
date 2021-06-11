@@ -1,5 +1,5 @@
 ---
-title: [Position filled] Recruiting a masters student for Fall 2021
+title: Position filled: Recruiting a masters student for Fall 2021
 tags: 
   - lab news
   - position opening
