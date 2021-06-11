@@ -4,6 +4,7 @@ tags:
   - monitoring
   - tool
   - time series
+  - publication
 author: Easton R. White
 member: easton-white
 ---
