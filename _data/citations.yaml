@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1111/1365-2656.13560
+  title: "Effects of climate\u2010change driven gradual and acute temperature changes\
+    \ on shark and ray species"
+  authors:
+  - Geoffrey J. Osgood
+  - Easton R. White
+  - Julia K. Baum
+  publisher: Journal of Animal Ecology
+  date: '2021-06-19'
+  link: https://doi.org/gkscmg
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Osgood_et_al_AnimalEco.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2021_Osgood_et_al_AnimalEco.pdf
+  tags:
+  - monitoring
+  - elasmobranchs
+  - climate change
 - id: 10.1016/j.ecoinf.2021.101336
   title: 'The broken window: An algorithm for quantifying and characterizing misleading
     trajectories in ecological processes'
