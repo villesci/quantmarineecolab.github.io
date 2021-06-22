@@ -1,4 +1,17 @@
 
+- id: 10.1111/1365-2656.13560
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Osgood_et_al_AnimalEco.jpg
+  extra-links:
+    - type: pdf
+      link: pdfs/2021_Osgood_et_al_AnimalEco.pdf
+  tags:
+    - monitoring
+    - elasmobranchs
+    - climate change
+
+
+
+
 - id: 10.1016/j.ecoinf.2021.101336
   image: https://quantmarineecolab.github.io/images/journal_covers/2021_Bahlai_etal_EcoInformatics.jpg
   extra-links:
