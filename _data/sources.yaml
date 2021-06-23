@@ -1,4 +1,19 @@
 
+
+- id: 10.1016/j.envsci.2021.06.007
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_BakerMedard_etal_EnvSciPol.jpg
+  extra-links:
+    - type: pdf
+      link: pdfs/2021_BakerMedard_etal_EnvSciPol.pdf
+  tags:
+    - socio-ecological
+    - marine protected areas
+    - Madagascar
+    - conservation
+
+
+
+
 - id: 10.1111/1365-2656.13560
   image: https://quantmarineecolab.github.io/images/journal_covers/2021_Osgood_et_al_AnimalEco.jpg
   extra-links:
