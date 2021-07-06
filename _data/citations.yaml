@@ -151,9 +151,10 @@
   extra-links:
   - type: pdf
     link: pdfs/2020_White_etal_FishFisheries.pdf
-  - type: source
-    link: https://github.com/eastonwhite/COVID19_US_Fisheries
-    text: Code
+  - type: github
+    link: eastonwhite/COVID19_US_Fisheries
+  - type: blog
+    link: https://quantmarineecolab.github.io/2020/11/15/seafood-and-covid-paper.html
   tags:
   - monitoring
   - COVID-19
