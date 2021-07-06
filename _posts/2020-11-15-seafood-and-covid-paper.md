@@ -16,4 +16,8 @@ White, Easton R., Halley Froehlich, Jessica A. Gephart, Richard S. Cottrell, Tre
 - Picked up by over 200 news outlets
 - Referenced in a [US Congressional Report](https://crsreports.congress.gov/product/pdf/R/R46535)
 
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/faf.12525"></div>
+
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1111/faf.12525" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
