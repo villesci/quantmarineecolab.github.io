@@ -101,7 +101,7 @@ pdf:
   link: $LINK
 
 blog:
-  icon: far fa-blog
+  icon: fas fa-blog
   text: blog
   tooltip: blog
   link: $LINK
