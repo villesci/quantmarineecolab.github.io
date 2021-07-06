@@ -15,3 +15,5 @@ White, Easton R., Halley Froehlich, Jessica A. Gephart, Richard S. Cottrell, Tre
 - In the top 1% Altmetric scores of all articles ever tracked
 - Picked up by over 200 news outlets
 - Referenced in a [US Congressional Report](https://crsreports.congress.gov/product/pdf/R/R46535)
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/faf.12525"></div>
