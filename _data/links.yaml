@@ -100,6 +100,12 @@ pdf:
   tooltip: pdf
   link: $LINK
 
+blog:
+  icon: far fa-blog
+  text: blog
+  tooltip: blog
+  link: $LINK
+
 
 journal:
   icon: far fa-newspaper
