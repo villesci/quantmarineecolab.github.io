@@ -19,9 +19,11 @@
   extra-links:
     - type: pdf
       link: pdfs/2021_Osgood_et_al_AnimalEco.pdf
+    - type: github
+      link: baumlab/Osgood_etal_2021_JAE
   tags:
     - monitoring
-    - elasmobranchs
+    - sharks and rays
     - climate change
 
 
