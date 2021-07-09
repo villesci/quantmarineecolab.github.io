@@ -15,4 +15,10 @@ We publish most of our work in both preprint journals and peer-reviewed journals
 
 {% include search-info.html %}
 
+# In the pipeline (preprint and/or in review)
+
+White, Easton R., Kalle Parvinen, and Ulf Dieckmann. Environmental variability and phenology evolution: impacts of climate change and spring onset on reproductive timing in a small mammal. PeerJ Preprints. In revision at Theoretical Ecology.
+
+# Published
+
 {% include list.html data="citations" component="citation" style="rich" %}
