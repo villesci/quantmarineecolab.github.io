@@ -11,7 +11,7 @@ There are often openings for graduate students and postdoctoral fellows within t
 
 All lab members must be:
 - Decent human beings (we don’t work with jerks) 
-- Interested in marine systems and using quantitative tools (e.g., mathematical models, statistics, R)
+- Interested in marine systems **and** using quantitative tools (e.g., mathematical models, statistics, R)
 - Wanting to change the world
 
 Members of the lab are strongly committed to anti-racist practices, real diversity and inclusion efforts, and moving science beyond the ivory tower.
@@ -23,7 +23,7 @@ One of my main commitments as a faculty member is promoting and supporting diver
 
 ## Graduate students
 
-I am currently looking to recruit a M.S. student (to start Fall 2021) to work on one of three possible questions: 1) small scale fisheries management, 2) the role of extreme events in marine systems, or 3) the effect of COVID-19 on sustainable seafood. I will also be recruiting both M.S. and Ph.D. students for Fall 2022. Experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work is needed. A basic understanding of Spanish is a plus. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. I am also open to chatting about potential projects related to other areas of my research program. 
+I will likely accept two graduate students (to start Fall 2022) to work on one of three possible questions: 1) small scale fisheries management, 2) the role of extreme events in marine systems, or 3) the effect of COVID-19 on sustainable seafood. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work. A basic understanding of Spanish is a plus for some of the lab's projects. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. I am also open to chatting about potential projects related to other areas of my research program. 
 
 I can accept students through [UNH's Biological Sciences MS and PhD programs.](https://colsa.unh.edu/biological-sciences) There are options within these programs in both Integrative and Organismal Biology (IOB) and Marine Biology (MB). The priority deadline for Fall admission is January 15th each year. If you are interested in working with me, I strongly recommended that you reach out to me before applying for graduate study. Graduate work is typically funded through a combination of fellowships, research positions, and teaching assistantships. 
 
@@ -51,6 +51,4 @@ If you are interested, please send an email and CV to Easton White (<Easton.Whit
 
 Additional staff and faculty positions at UNH are posted to an [online job platform.](https://jobs.usnh.edu/) I will highlight here the positions that are most relevant to my department and field.
 
-- [Technical Education Specialist](https://jobs.usnh.edu/postings/39712) - position in my department for an individual to coordinate and manage biology teaching labs, especially those related to ecology and evolution. I will be working with this person closly given the courses I teach.
-- [Postdoc in biology education](https://jobs.usnh.edu/postings/39825)
 
