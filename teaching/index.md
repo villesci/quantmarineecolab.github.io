@@ -17,7 +17,11 @@ I currently teach two courses at UNH (materials and website are in the works!):
 
 ## Data Science with R for the Life Sciences (BIOL 706/806)
 
-Currently pending - likely to be taught every Fall semester
+- Taught every Fall semester
+- This course tends to fill up very quickly. Please reach out to Easton if you are interested.
+- [Course catalog entry](https://courses.unh.edu/timeroom/202110?tcc=&Title=&Campus=&Subject=&Delivery=&Instructor=easton+white&Level=All+Graduate&Credits=&Time=&CRN=)
+- [Course website](https://quantmarineecolab.github.io/BIOL806/)
+- [Course materials (login required)](https://mycourses.unh.edu/courses/88910)
 
 ## Introductory Biology: Evolution, Biodiversity, and Ecology (BIOL 412) 
 

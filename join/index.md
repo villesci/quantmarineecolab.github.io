@@ -20,6 +20,10 @@ Members of the lab are strongly committed to anti-racist practices, real diversi
 
 One of my main commitments as a faculty member is promoting and supporting diversity, equity, and inclusion in STEM. Please consider applying for a position in my lab if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability.
 
+## Undergraduate students
+
+The lab often has openings for undergraduate students at UNH to contribute to projects or design a project for an undergraduate thesis/research experience. These can be paid or count as course credits. These projects are typically co-designed by the student, QMEL graduate students, and Professor Easton White. The students most likely to be accepted for a position are those with a keen interest in developing quantitative skills in the context of marine systems. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and goals and how you think these align with my research program.
+
 
 ## Graduate students
 
