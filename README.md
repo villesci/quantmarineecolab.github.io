@@ -4,18 +4,17 @@ Our lab website draws heavily on the template created by the [Green Lab](https:/
 
 ## Documentation
 
-[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
+[🏠 Wiki Home](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/)
 
-[🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
+[▶️ Get Started](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Getting-started)
 
-[📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
+[🗚 Basic Formatting](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Basic-formatting)
 
-[⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
+[📝 Building a profile page](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Building-a-profile-page)
 
-[🧱 Components](https://github.com/greenelab/lab-website-template/wiki/Components)
+[🧱 Adding a blog or news post](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Adding-a-blog-or-news-post)
 
-[🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
+[🤖 Adding a publication](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Adding-a-publication)
 
-[💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
+[❓ Suggesting other edits](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Suggesting-edits-for-other-parts-of-the-website)
 
-[❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
