@@ -3,13 +3,15 @@ title: Shoals Shark Biology and Conservation
 author: Julia Saltzman
 member: julia-saltzman
 tags:
-  -sharks and rays 
-  -shoals marine lab 
-  -teaching 
-  -graduate student life 
+  - sharks and rays 
+  - shoals marine lab 
+  - teaching 
+  - graduate student life 
 ---
+
 # Shark Biology and Conservation at Shoals Marine Lab 
-Last month, I was lucky enough to spend two weeks at Shoals Marine Lab. Shoals is a research station which is centered around undergraduate education and is run collabratively by University of New Hampshire and Cornell University. I was the teaching assistant for their Shark Biology and Conservation course. This was awesome, because not only was I able to talk about my favorite thing (sharks) all day- but it also solidified that I do in fact love teaching. Throughout the two weeks, I spent time setting up labs, grading, assisting with project development, and talking with students about my scientific path! 
+
+Last month, I was lucky enough to spend two weeks at [Shoals Marine Lab](https://www.shoalsmarinelaboratory.org/). Shoals is a research station which is centered around undergraduate education and is run collabratively by University of New Hampshire and Cornell University. I was the teaching assistant for their Shark Biology and Conservation course. This was awesome, because not only was I able to talk about my favorite thing (sharks) all day- but it also solidified that I do in fact love teaching. Throughout the two weeks, I spent time setting up labs, grading, assisting with project development, and talking with students about my scientific path! 
 <br>
 There were a lot of highlights over the course of the week- but I figured I would list my "top 10" experiences at Shoals. 
 1. Tagging and releasing two blue sharks! _My background is working with tropical shark species in Miami and the Bahamas, so working with blues was a first for me!_
