@@ -1,8 +1,8 @@
 ---
 name: Jasper
-image: quantmarineecolab.github.io/images/Jasper.jpeg
-role: Lab Mascot, DOGtor of Philosophy Candidate
-description: Professional Good Boy
+image: images/Jasper.jpeg
+role: mascot
+description: DOGtor of Philosophy Candidate
 aliases:
   - Jasper
 links:

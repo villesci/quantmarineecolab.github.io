@@ -34,6 +34,13 @@ Our lab is made up of a collaborative and diverse team of scientists. We value a
   component="portrait"
   filters="role: programmer, group: current"
 %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mascot, group: current"
+%}
 {:.center}
 
 {% include section.html %}
