@@ -7,7 +7,7 @@ layout: default
 {%- include figure.html image=page.image width="200px" -%}
 
 <p class="center">
-  {%- include role.html type=page.role text=true description=page.description -%}
+  {%- include role.html type=page.role text=false description=page.description -%}
 </p>
 
 <p class="center">
@@ -34,11 +34,6 @@ layout: default
   {%- for name in aliases -%}"{{ name }}" {%- endfor -%}
 {%- endcapture -%}
 
-{%- assign search = search | strip | prepend: "/publications/?search=" -%}
-
-{%- capture text -%}
-  {{ page.title }}'s papers
-{%- endcapture -%}
 
 
 <p class="center">
