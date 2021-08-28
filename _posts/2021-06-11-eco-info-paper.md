@@ -7,6 +7,7 @@ tags:
   - publication
 author: Easton R. White
 member: easton-white
+image: https://quantmarineecolab.github.io/images/journal_covers/2021_Bahlai_etal_EcoInformatics.jpg
 ---
 
 We have a new paper out today that builds on some of my past work on species monitoring.
