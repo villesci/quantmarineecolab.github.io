@@ -9,9 +9,7 @@
     tags=include.tags
     date=include.date
   %}
-   <p> 
-  {%- assign image = include.image | default: "" -%}
-    </p>
+
   <p>
     {{ include.content | strip_html | truncate: 500 }}
   </p>
