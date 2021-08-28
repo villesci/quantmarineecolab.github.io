@@ -5,3 +5,5 @@ _site
 vendor
 debug.log
 start.sh
+.DS_Store
+.Rhistory
