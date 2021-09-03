@@ -1,6 +1,12 @@
 ---
 name: Sophie Wulfing
 image: images/Sophie_Website.PNG
+description: Graduate student
+role: grad
+group: current
+aliases:
+  - S. Wulfing
+  - Sophie Wulfing
 links:
   email: sw1207@usnh.edu
   twitter: SophieWulfing
