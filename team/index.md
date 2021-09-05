@@ -26,15 +26,14 @@ Our lab is made up of a collaborative and diverse team of scientists. We value a
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad, group: current"
+  filters="role: researcher, group: current"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer, group: current"
+  filters="role: undergrad, group: current"
 %}
-
 {%
   include list.html
   data="members"
