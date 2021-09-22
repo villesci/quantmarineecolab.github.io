@@ -31,6 +31,8 @@ I will likely accept two graduate students (to start Fall 2022) to work on one o
 
 I can accept students through [UNH's Biological Sciences MS and PhD programs.](https://colsa.unh.edu/biological-sciences) There are options within these programs in both Integrative and Organismal Biology (IOB) and Marine Biology (MB). The priority deadline for Fall admission is January 15th each year. If you are interested in working with me, I strongly recommended that you reach out to me before applying for graduate study. Graduate work is typically funded through a combination of fellowships, research positions, and teaching assistantships. 
 
+Depending on your specific interests, I might not be the best advisor for you at UNH. You may also want to reach out to [Dr. Melissa Aikens (plants, biology education)](https://colsa.unh.edu/person/melissa-aikens), [Dr. Elizabeth Fairchild (fish, fisheries)](https://colsa.unh.edu/person/elizabeth-fairchild), [Dr. Nathan Furey (fishes, sharks, animal movement)](https://colsa.unh.edu/person/nathan-furey), [Dr. Elizabeth Harvey (phytoplankton, harmful algal blooms)](https://colsa.unh.edu/person/elizabeth-harvey), [Dr. Brittany Jellison (marine invertebrates, intertidal systems, climate change)](https://colsa.unh.edu/person/brittany-jellison), [Dr. Gregg Moore (marine plants, restoration)](https://colsa.unh.edu/person/gregg-moore), and others in the [Biology Department](https://colsa.unh.edu/biological-sciences/people) or within the [College of Life Science And Agriculture](https://colsa.unh.edu/). 
+
 
 ## Postdoctoral fellows
 
