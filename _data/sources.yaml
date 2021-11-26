@@ -1,5 +1,21 @@
 
 
+- id: 10.1016/j.ocecoaman.2021.105925
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_OCM.jpg
+  extra-links:
+    - type: pdf
+      link: pdfs/2022_White_etal_OCM.pdf
+    - type: source
+      link: https://github.com/eastonwhite/GFW-Madagascar
+      text: Code
+  tags:
+    - Madagascar
+    - novel data streams
+    - fisheries
+    - marine protected areas
+
+
+
 - id: 10.1101/2021.08.18.456878
   image: https://quantmarineecolab.github.io/images/journal_covers/2020_White_etal_Oikos.png
   extra-links:
