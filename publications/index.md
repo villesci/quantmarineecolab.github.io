@@ -13,11 +13,8 @@ We publish most of our work in both preprint journals and peer-reviewed journals
 
 # In the pipeline (preprint and/or in review)
 
-Easton R. White, Merrill Baker-Medard, Valeriia Vakhitova, Samantha Farquhar, Tendro Tondrasoa Ramaharitra. Distant water industrial fishing in developing countries: A case study of Madagascar. [bioRxiv preprints](https://doi.org/10.1101/2021.05.13.444019)
 
-Zachary A. Schakner, Easton R. White, Amber Bellamy, Mridula Srivasanan. Detecting population trends in United States marine mammals. In review.
-
-Emily Beasley, Natalia Aristizabal, Erika Bueno, Easton R. White. Spatially explicit models predict coffee rust spread in fragmented landscapes. [bioRxiv preprints](https://www.biorxiv.org/content/10.1101/2020.10.16.343194v1).
+Emily Beasley, Natalia Aristizabal, Erika Bueno, Easton R. White. Spatially explicit models predict coffee rust spread in fragmented landscapes. [bioRxiv preprints](https://www.biorxiv.org/content/10.1101/2020.10.16.343194v1). In review.
 
 Christine A. Ward-Paige, Easton R. White, Elizabeth MP Madin, and 25 others. A framework for mapping and monitoring human-ocean interactions in near real-time during COVID-19 and beyond. [OSF Preprints](https://osf.io/sxnu5/). In review at Marine Policy. 	
 
