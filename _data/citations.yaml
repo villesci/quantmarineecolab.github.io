@@ -1,5 +1,29 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1016/j.ocecoaman.2021.105925
+  title: 'Distant water industrial fishing in developing countries: A case study of
+    Madagascar'
+  authors:
+  - Easton R. White
+  - "Merrill Baker-M\xE9dard"
+  - Valeriia Vakhitova
+  - Samantha Farquhar
+  - Tendro Tondrasoa Ramaharitra
+  publisher: Ocean & Coastal Management
+  date: '2022-02-01'
+  link: https://doi.org/gnmbt8
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_OCM.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_White_etal_OCM.pdf
+  - type: source
+    link: https://github.com/eastonwhite/GFW-Madagascar
+    text: Code
+  tags:
+  - Madagascar
+  - novel data streams
+  - fisheries
+  - marine protected areas
 - id: 10.1101/2021.08.18.456878
   title: 'Sharks, Lies, and Videotape: A content analysis of 32 years of Shark Week
     documentaries'
