@@ -8,6 +8,8 @@
     - type: source
       link: https://github.com/eastonwhite/GFW-Madagascar
       text: Code
+    - type: blog 
+      link: https://quantmarineecolab.github.io/2021/12/15/madagascar-distant-fishing-paper.html
   tags:
     - Madagascar
     - novel data streams
