@@ -1,5 +1,5 @@
 ---
-title: New Paper - Distant water industrial fishing in developing countries: A case study of Madagascar
+title: New Paper - Distant water industrial fishing in developing countries - A case study of Madagascar
 tags: 
   - publication
   - seafood
