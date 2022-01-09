@@ -55,5 +55,5 @@ Durham, NH 03824
   image="images/lab_logo_bw.png"
   width="75%"
 %}
-
+Lab logos and were designed by [Julia Saltzman](https://quantmarineecolab.github.io/members/julia-saltzman.html).
 
