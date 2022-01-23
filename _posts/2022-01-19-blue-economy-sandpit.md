@@ -15,8 +15,6 @@ Easton recently joined other scientists at UNH's Blue Economy Sandpit. The event
   include feature.html
   image="images/blog_post_images/blueeconomysandpit.png"
   link="https://innovation.unh.edu/blue-economy-sandpit#White"
-  headline="Link to Easton's talk"
-  text="Link to Easton's talk"
 %}
 
 
