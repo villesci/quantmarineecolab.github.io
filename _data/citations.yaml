@@ -1,5 +1,24 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1111/csp2.611
+  title: Detecting population trends for US marine mammals
+  authors:
+  - Easton R. White
+  - Zachary Schakner
+  - Amber Bellamy
+  - Mridula Srinivasan
+  publisher: Conservation Science and Practice
+  date: '2022-01-05'
+  link: https://doi.org/gn2f7s
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_ConSciPrac.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_White_etal_ConSciPrac.pdf
+  tags:
+  - conservation
+  - monitoring
+  - time series
+  - marine mammals
 - id: 10.1016/j.ocecoaman.2021.105925
   title: 'Distant water industrial fishing in developing countries: A case study of
     Madagascar'
