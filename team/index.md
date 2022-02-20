@@ -61,6 +61,43 @@ There are often openings for graduate students and postdoctoral fellows within t
 
 
 
+# Alumni
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi, group: alumni"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: grad, group: alumni"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: researcher, group: alumni"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad, group: alumni"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mascot, group: alumni"
+%}
+{:.center}
+
+
+
+{% include section.html %}
 
 
 ## Funding
