@@ -1,5 +1,28 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.7717/peerj.13007
+  title: The direct and indirect effects of a global pandemic on US fishers and seafood
+    workers
+  authors:
+  - Easton R. White
+  - Jill Levine
+  - Amanda Moeser
+  - Julie Sorensen
+  publisher: PeerJ
+  date: '2022-03-21'
+  link: https://doi.org/gpqssb
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_White_etal_PeerJ.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_White_etal_PeerJ.pdf
+  - type: blog
+    link: https://www.unh.edu/unhtoday/news/release/2022/03/21/unh-research-us-seafood-workers-increased-risk-covid-19-during-pandemic
+  tags:
+  - COVID-19
+  - novel data streams
+  - fisheries
+  - seafood
+  - worker safety
 - id: 10.1111/csp2.611
   title: Detecting population trends for US marine mammals
   authors:
