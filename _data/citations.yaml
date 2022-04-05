@@ -1,5 +1,55 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1016/j.marpol.2022.105054
+  title: A framework for mapping and monitoring human-ocean interactions in near real-time
+    during COVID-19 and beyond
+  authors:
+  - CA Ward-Paige
+  - ER White
+  - EMP Madin
+  - GJ Osgood
+  - LK Bailes
+  - RL Bateman
+  - E Belonje
+  - KV Burns
+  - N Cullain
+  - P Darbyshire-Jenkins
+  - R S de Waegh
+  - AM Eger
+  - L Fola-Matthews
+  - BM Ford
+  - C Gonson
+  - CJ Honeyman
+  - JE House
+  - E Jacobs
+  - LK Jordan
+  - JJ Levenson
+  - K Lucchini
+  - "Marti-PuigP Mart\xED-Puig"
+  - LAH McGuire
+  - C Meneses
+  - PH Montoya-Maya
+  - RA Noonan
+  - PA Ruiz-Ruiz
+  - PE Ruy
+  - RA Saputra
+  - G Shedrawi
+  - B Sing
+  - MD Tietbohl
+  - A Twomey
+  - DC Vergara Florez
+  - L Yamb
+  publisher: Marine Policy
+  date: '2022-04-01'
+  link: https://doi.org/gptn4x
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_WardPaige_etal_MarPol.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_WardPaige_etal_MarPol.pdf
+  tags:
+  - COVID-19
+  - novel data streams
+  - socio-ecological
 - id: 10.7717/peerj.13007
   title: The direct and indirect effects of a global pandemic on US fishers and seafood
     workers
