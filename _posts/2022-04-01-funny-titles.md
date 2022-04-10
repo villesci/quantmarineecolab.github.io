@@ -9,7 +9,7 @@ member: easton-white
 
 Our new preprint [(link here)](https://www.biorxiv.org/content/10.1101/2022.03.18.484880v1) has  received a lot of attention on Twitter and in the media. In the study, we show that funny titles can sometimes help increase total citations of an article. 
 
-<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1111/csp2.611" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1101/2022.03.18.484880 " data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 - [Original blog post from lead author Stephen Heard](https://scientistseessquirrel.wordpress.com/2022/03/22/do-funny-titles-increase-or-decrease-the-impact-of-scientific-papers-new-preprint/)
 - [Coverage in Nature](https://www.nature.com/articles/d41586-022-00946-2)
