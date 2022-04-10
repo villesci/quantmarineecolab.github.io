@@ -1,5 +1,5 @@
 ---
-title: New Preprint: Are funny science titles cited more?
+title: New Preprint - Are funny science titles cited more?
 tags: 
  - science of science
 author: Easton R. White
