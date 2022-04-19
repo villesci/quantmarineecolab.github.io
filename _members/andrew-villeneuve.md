@@ -1,6 +1,6 @@
 ---
 name: Andrew (Drew) Villeneuve
-image: images/headshots/andrew_villeneuve.jpg
+image: images/headshots/andrew-villeneuve.jpg
 description: PhD Student
 role: grad
 group: current
@@ -12,9 +12,8 @@ aliases:
 links:
   email: andrewrvilleneuve@gmail.com
   twitter: Villeneuvesci
-  linkedin: wilton-burns-aa17a264
-  github: https://github.com/villesci
-  scholar: https://scholar.google.com/citations?user=BJlkwh0AAAAJ&hl=en&authuser=1
+  github: villesci
+  google-scholar: BJlkwh0AAAAJ&hl
 ---
 
 Andrew (Drew) Villeneuve (he/him/his) is a global change marine ecologist interested in working with data across scales of biological organization to better understand the effects of climate change on marine ecosystems and the people that depend on them. He specifically seeks to combine empirical data of organismal physiology and distribution, environmental and extreme event data, and fisheries data into models of ecosystem dynamics under climate change. 
