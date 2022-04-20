@@ -1,9 +1,9 @@
 ---
 name: Ana Silverio
 image: images/Ana-Silverio.JPG
-role: researcher
+role: grad
 group: current
-description: Lab Technician
+description: Graduate student
 aliases:
   - A. Silverio
   - Ana Silverio
