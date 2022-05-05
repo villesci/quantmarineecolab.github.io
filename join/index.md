@@ -22,9 +22,9 @@ One of my main commitments as a faculty member is promoting and supporting diver
 
 ## Current opening: Data scientist/Research scientist/Research professor 
 
-The Department of Biological Sciences at UNH is looking for a Data Scientist/Research Professor to join the Quantitative Marine Ecology Lab with PI Easton White. This position would be at the MS or PhD level with compensation and title appropriate to each. This person would work on several projects each year. The data scientist would be involved in teaching, mentoring, and working on papers. 
+The Department of Biological Sciences at UNH is looking for a Data Scientist/Research Professor to join the Quantitative Marine Ecology Lab with PI Easton White. This position would be at the MS or PhD level with compensation and title appropriate to each. This person would work on several projects each year. The data scientist would be involved in teaching, mentoring, and working on papers. If appointed at the Research Professor position, the individual will be expected to take a leadership role in the lab and department. There will be substantial freedom to develop their own research program in addition to contributing to the larger mission of the QMEL.
 
-This position is to start on a three-year contract with the possibility of extension. If you are interested, please send Easton.White@unh.edu a CV and brief introduction, including details of your prior research experience and why you might be a good fit for this position.
+This position is to start on a three-year contract with the possibility of extension. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience and why you might be a good fit for this position.
 
 Qualifications
 
