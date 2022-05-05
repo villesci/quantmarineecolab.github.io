@@ -22,7 +22,11 @@ One of my main commitments as a faculty member is promoting and supporting diver
 
 ## Current opening: Data scientist/Research scientist/Research professor 
 
-The Department of Biological Sciences at UNH is looking for a Data Scientist/Research Professor to join the Quantitative Marine Ecology Lab with PI Easton White. This position would be at the MS or PhD level with compensation and title appropriate to each. This person would work on several projects each year. The data scientist would be involved in teaching, mentoring, and working on papers. If appointed at the Research Professor position, the individual will be expected to take a leadership role in the lab and department. There will be substantial freedom to develop their own research program in addition to contributing to the larger mission of the QMEL.
+The Department of Biological Sciences at UNH is looking for a Data Scientist/Research Professor to join the Quantitative Marine Ecology Lab with PI Easton White. This position would be at the MS or PhD level with compensation and title appropriate to each. 
+
+1. Data Scientist: This person would work on several projects each year, including contributing to or leading publications. They would also provide informal mentorship to others in the lab and department.
+
+2. Research Professor: An individual appointed at the research professor level would be involved in teaching, mentoring, grant writing, and working on publications. If appointed at the Research Professor position, the individual will be expected to take a leadership role in the lab and department. There will be substantial freedom to develop their own research program in addition to contributing to the larger mission of the QMEL. We envision this role as an alternative to the traditional pathway of a series of postdocs to a tenure-track position. 
 
 This position is to start on a three-year contract with the possibility of extension. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience and why you might be a good fit for this position.
 
