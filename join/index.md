@@ -20,29 +20,6 @@ Members of the lab are strongly committed to anti-racist practices, real diversi
 One of my main commitments as a faculty member is promoting and supporting diversity, equity, and inclusion in STEM. Please consider applying for a position in my lab if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability.
 
 
-## Current opening: Data scientist/Research scientist/Research professor 
-
-The Department of Biological Sciences at UNH is looking for a Data Scientist/Research Professor to join the Quantitative Marine Ecology Lab with PI Easton White. This position would be at the MS or PhD level with compensation and title appropriate to each. 
-
-1. Data Scientist: This person would work on several projects each year, including contributing to or leading publications. They would also provide informal mentorship to others in the lab and department.
-
-2. Research Professor: An individual appointed at the research professor level would be involved in teaching, mentoring, grant writing, and working on publications. If appointed at the Research Professor position, the individual will be expected to take a leadership role in the lab and department. There will be substantial freedom to develop their own research program in addition to contributing to the larger mission of the QMEL. We envision this role as an alternative to the traditional pathway of a series of postdocs to a tenure-track position. 
-
-This position is to start on a three-year contract with the possibility of extension. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience and why you might be a good fit for this position.
-
-Qualifications
-
-- Strong statistical, analytical, and data wrangling skills. Expertise in R, Tidyverse, time series analysis, Git/Github, and other open science tools
-- Experience working with large datasets and/or at large spatial scales
-- Evidence of a growing publication record consistent with the candidate’s career stage
-- Experience teaching programming or statistics in formal or informal setting
-- Experience with mentoring of graduate and undergraduate students
-- Strong writing and communication skills
-- Ability to work both independently and as a team member and leader
-
-
-Currently, we cannot provide a visa for this position. 
-
 
 
 
@@ -73,6 +50,8 @@ Conditional on funding, I will likely soon be looking for postdoctoral fellows t
 - [Smith Fellowship program](https://conbio.org/mini-sites/smith-fellows) - Conservation-focused award due in October each year
 - [JSMF's Understanding Dynamic and Multi-scale Systems program](https://www.jsmf.org/apply/fellowship/) - Postdoc fellowship due in June each year
 - [JHU Early career researcher funding database](https://research.jhu.edu/rdt/funding-opportunities/early-career/) 
+- [Life Sciences Research Foundation](https://lsrf.org/apply/) - opens in August each year
+- [L'Oréal USA For Women in Science fellowship](https://www.loreal.com/en/usa/pages/group/fwis/) - Applications open in Fall each year
 
 If you are interested, please send an email and CV to Easton White (<Easton.White@unh.edu>). 
 
@@ -82,6 +61,5 @@ If you are interested, please send an email and CV to Easton White (<Easton.Whit
 
 # Other positions at UNH
 
-Additional staff and faculty positions at UNH are posted to an [online job platform.](https://jobs.usnh.edu/) I will highlight here the positions that are most relevant to my department and field.
-
+Additional staff and faculty positions at UNH are posted to an [online job platform.](https://jobs.usnh.edu/) 
 
