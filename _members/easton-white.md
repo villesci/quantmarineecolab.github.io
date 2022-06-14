@@ -1,6 +1,6 @@
 ---
 name: Easton R. White
-image: images/easton.jpg
+image: images/easton_headshot.jpg
 description: Principal Investigator 
 role: pi
 group: current
