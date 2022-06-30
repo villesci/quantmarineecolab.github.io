@@ -10,7 +10,7 @@ nav:
 
 All lab members must:
 - Be decent human beings (we don’t work with jerks) 
-- Have an interest in marine systems **and** using quantitative tools (e.g., mathematical models, statistics, R)
+- Have an interest in ecological systems **and** using quantitative tools (e.g., mathematical models, statistics, R)
 - Want to change the world
 
 Members of the lab are strongly committed to anti-racist practices, real diversity and inclusion efforts, and moving science beyond the ivory tower.
@@ -30,7 +30,7 @@ The lab often has openings for undergraduate students at UNH to contribute to pr
 
 ## Graduate students
 
-I currently have an opening for a masters student (with potential to extend to PhD) to work on a project using acoustics to estimate dense populations of single species. This student will be co-advised by [Laura Kloepper](https://laurakloepper2.wixsite.com/ecological-acoustics/join-1), another UNH Biological Sciences Professor. This project will utilize stats and population modeling, so I seek students with strong quantitative and coding background. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. 
+I currently have an opening for a masters student (with potential to extend to PhD) to work on a project using acoustics to estimate dense populations of single species. This student will be co-advised by [Laura Kloepper](https://laurakloepper2.wixsite.com/ecological-acoustics/join-1), another UNH Biological Sciences Professor. This project will utilize stats and population modeling, so I seek students with a strong quantitative and coding background. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. 
 
 I will likely accept two graduate students to start Fall 2023. The first student will work in mathematical ecology with applications to spatial ecology and metapopulation biology using oysters as a case study. The second student could work on one of three possible questions: 1) small scale fisheries management, 2) the role of extreme events in marine systems, or 3) the effect of COVID-19 on sustainable seafood. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work. A basic understanding of Spanish is a plus for some of the lab's projects. If you are interested, please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. I am also open to chatting about potential projects related to other areas of my research program. 
 
