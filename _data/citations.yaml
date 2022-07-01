@@ -1,5 +1,23 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1007/s10980-022-01473-1
+  title: Spatially explicit models predict coffee rust spread in fragmented landscapes
+  authors:
+  - Emily M. Beasley
+  - "Natalia Aristiz\xE1bal"
+  - Erika M. Bueno
+  - Easton R. White
+  publisher: Landscape Ecology
+  date: '2022-06-30'
+  link: https://doi.org/gqfndq
+  image: https://quantmarineecolab.github.io/images/journal_covers/2022_Beasley_etal_LandEco.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_Beasley_etal_LandEco.pdf
+  tags:
+  - coffee
+  - spatial ecology
+  - disease
 - id: 10.1016/j.marpol.2022.105054
   title: A framework for mapping and monitoring human-ocean interactions in near real-time
     during COVID-19 and beyond
