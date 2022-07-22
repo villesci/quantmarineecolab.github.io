@@ -1,6 +1,6 @@
 ---
 name: Ahilya Kadba
-image: images/headshots/ahilya-kadba.jpeg
+image: images/headshots/ahilya_kadba.jpg
 role: undergrad
 group: current
 description: Undergraduate researcher
