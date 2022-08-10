@@ -9,7 +9,7 @@ The Quantitative Marine Ecology lab at the [University of New Hampshire](https:/
 
 {%
   include figure.html
-  image="images/lab_logo_bw.png"
+  image="images/QMEL_Lab_logo2.png"
   width="65%"
 %}
 
