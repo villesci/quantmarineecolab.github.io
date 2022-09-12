@@ -1,5 +1,19 @@
 
 
+
+
+- id: 10.3389/fcosc.2022.987909
+  image: https://quantmarineecolab.github.io/images/journal_covers/2021_Stoll_et_al_FrontSustFood.png
+  tags:
+    - marine social science
+    - sawfish
+    - research methods
+
+
+
+
+
+
 - id: 10.1007/s10980-022-01473-1
   image: https://quantmarineecolab.github.io/images/journal_covers/2022_Beasley_etal_LandEco.jpg
   extra-links:
@@ -72,17 +86,6 @@
     - fisheries
     - marine protected areas
 
-
-
-- id: 10.1101/2021.08.18.456878
-  image: https://quantmarineecolab.github.io/images/journal_covers/2020_White_etal_Oikos.png
-  extra-links:
-    - type: pdf
-      link: pdfs/2021.08.18.456878v1.full.pdf
-  tags:
-    - marine social science
-    - shark week
-    - research methods
     
     
     
