@@ -4,6 +4,9 @@
 
 - id: 10.3389/fcosc.2022.987909
   image: https://quantmarineecolab.github.io/images/journal_covers/2021_Stoll_et_al_FrontSustFood.png
+  extra-links:
+    - type: pdf
+      link: pdfs/2022_Beasley_etal_LandEco.pdf
   tags:
     - marine social science
     - sawfish
