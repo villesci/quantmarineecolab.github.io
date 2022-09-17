@@ -128,5 +128,9 @@ Our work is made possible by funding from several organizations.
   image5="images/unh_logo.png"
   link5="https://www.unh.edu/"
   tooltip5="University of New Hampshire"
+  
+    image6="images/nhsg-logo-blue.png"
+  link6="https://seagrant.unh.edu/"
+  tooltip6="New Hampshire Sea Grant"
 
 %}
