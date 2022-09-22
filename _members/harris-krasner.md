@@ -2,7 +2,7 @@
 name: Harris Krasner
 image: images/Harris_Krasner.jpeg
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate researcher
 aliases: 
   - H. Krasner
