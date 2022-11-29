@@ -2,8 +2,8 @@
 name: Julia Saltzman
 image: images/julia-saltzman.jpg
 description: Graduate Student 
-role: alumni
-group: current
+role: grad
+group: alumni
 aliases:
   - J. Saltzman
   - Julia Saltzman
