@@ -1,9 +1,9 @@
 ---
 name: Jasper
 image: images/Jasper.jpeg
-role: mascot
+role: na
 description: DOGtor of Philosophy Candidate
-group: current
+group: alumni
 aliases:
   - Jasper
 links:
