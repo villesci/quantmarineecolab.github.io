@@ -1,6 +1,6 @@
 ---
 name: Barbara Spiecker
-image: images/team/barbara-spiecker.jpg
+image: images/headshots/barbara-spiecker.jpg
 role: postdoc
 group: current
 description: Postdoctoral Scholar
