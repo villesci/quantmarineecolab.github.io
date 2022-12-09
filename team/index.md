@@ -79,7 +79,7 @@ There are often openings for graduate students and postdoctoral fellows within t
   include list.html
   data="members"
   component="portrait"
-  filters="role: postdoc, group: current"
+  filters="role: postdoc, group: alumni"
 %}
 {%
   include list.html
