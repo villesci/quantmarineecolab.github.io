@@ -20,6 +20,12 @@ Our lab is made up of a collaborative and diverse team of scientists. We value a
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc, group: current"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: grad, group: current"
 %}
 {%
@@ -68,6 +74,12 @@ There are often openings for graduate students and postdoctoral fellows within t
   data="members"
   component="portrait"
   filters="role: pi, group: alumni"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: postdoc, group: current"
 %}
 {%
   include list.html
