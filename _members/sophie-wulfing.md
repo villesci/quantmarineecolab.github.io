@@ -1,6 +1,6 @@
 ---
 name: Sophie Wulfing
-image: images/Sophie_Website.PNG
+image: images/headshots/sophie-wulfing.jpg
 description: Graduate student
 role: grad
 group: current
