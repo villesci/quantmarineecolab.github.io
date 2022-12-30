@@ -31,7 +31,7 @@ We take applications at any time, but interns typically start in January, June, 
 
 The students most likely to be accepted for a position are those with a keen interest in developing quantitative skills in the context of marine systems.
 
-After completing this form (https://forms.gle/16fogrHEX7duePXw5), please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and goals and how you think these align with my research program.
+After completing this [form](https://forms.gle/16fogrHEX7duePXw5), please send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and goals and how you think these align with my research program.
 
 
 ## Graduate students
