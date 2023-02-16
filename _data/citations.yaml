@@ -1,5 +1,22 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1139/facets-2022-0079
+  title: If this title is funny, will you cite me? Citation impacts of humour and
+    other features of article titles in ecology and evolution
+  authors:
+  - Stephen B. Heard
+  - Chloe A. Cull
+  - Easton R. White
+  publisher: FACETS
+  date: '2023-01-01'
+  link: https://doi.org/grsmcr
+  image: https://quantmarineecolab.github.io/images/journal_covers/2023_Heard_etal_Facets.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_Heard_etal_Facets.pdf
+  tags:
+  - science communication
+  - ecology
 - id: 10.3389/fcosc.2022.987909
   title: '#Sawfish: Social media to assess public perceptions, behaviors, and attitudes
     towards a critically endangered species'
