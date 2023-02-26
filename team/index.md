@@ -129,11 +129,11 @@ Our work is made possible by funding from several organizations.
   link2="https://www.uvm.edu/gund"
   tooltip2="Gund Institute"
 
-  image3="images/fulbright-logo.jpg"
+  image3="images/fulbright-logo.png"
   link3="https://cies.org/"
   tooltip3="Fulbright Program"
 
-  image4="images/cdf_logo.jpg"
+  image4="images/cdf_logo.png"
   link4="https://darwinfoundation.org/en//"
   tooltip4="Charles Darwin Foundation"
   
@@ -144,5 +144,13 @@ Our work is made possible by funding from several organizations.
     image6="images/nhsg-logo-blue.png"
   link6="https://seagrant.unh.edu/"
   tooltip6="New Hampshire Sea Grant"
+  
+    image7="images/prep_horiz.png"
+  link7="https://prepestuaries.org/who-we-are/about-prep/"
+  tooltip7="Piscataqua Region Estuaries Partnership"
+  
+    image8="images/nhaes_logo.png"
+  link8="https://colsa.unh.edu/new-hampshire-agricultural-experiment-station"
+  tooltip8="New Hampshire Agricultural Experiment Station"
 
 %}
