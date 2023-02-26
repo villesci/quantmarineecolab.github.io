@@ -13,7 +13,7 @@ I (Easton White) view teaching as a highly scientific enterprise. I read literat
 
 {% include section.html %}
 
-I currently teach two courses at UNH (materials and website are in the works!):
+I currently teach several courses at UNH (materials and website are in the works!):
 
 ## Data Science with R for the Life Sciences (BIOL 706/806)
 
@@ -25,7 +25,33 @@ I currently teach two courses at UNH (materials and website are in the works!):
 
 ## Introductory Biology: Evolution, Biodiversity, and Ecology (BIOL 412) 
 
-Taught every Fall semester
+Although this courses is taught every semester, I only teach it during the Fall terms.
+
+Summary: Evolution is the paradigm through which we understand Biology. This course will introduce students to evolutionary concepts that underlie the tremendous biodiversity present on Earth, and explore the ecological interactions that occur among individuals and species. Indoor and outdoor lab activities. Required for majors in the biological sciences. 
+
+
+## Theoretical Ecology (BIOL 80X)
+
+In Fall 2023, I will offer this course for the first time. A full schedule and syllabus will be posted here soon.
+
+Course Description: Introduces students to the theoretical development of the field of ecology. Students will read historic and modern papers on topics ranging from the foundations of population and community ecology as well as applied examples. Students will also develop skills in building mathematical models and programming them into a computer language of their choice. The class culminates with a small group project analyzing a dataset, writing up findings in R markdown, and presenting to the course. 
+
+Prerequisites:
+
+- Students should have experience programming in R, python, Matlab, or a similar language. Students should understand how to define objects, write custom functions, and use for loops. 
+- Students should have taken an introductory calculus course (e.g., MATH 424b)
+
+Learning Outcomes:  By the end of the course, students should be able to:
+
+- Understand and connect classical and modern papers in theoretical ecology
+- Understand and apply mathematical tools, including equilibrium and stability analysis, matrix algebra, differential and difference equations, bifurcation analysis, and probability theory
+- Use a programming language to build simple population models
+- Construct a mathematical model of a system from scratch 
+
+
+{% include section.html %}
+
+Prior to UNH, I taught courses in quantitative biology, ecology and evolution, mathematics, and data science. Previously, I developed and taught Foundations of Quantitative Reasoning, a graduate course at the University of Vermont. The class is a mix of ecology, evolution, quantitative skills, and programming in R. All the materials for the course are freely available at: https://eastonwhite.github.io/QuantReasoning/. I am also an instructor for the group Software Carpentry. Although I haven't taught the workshops since COVID, I typically taught 2-3 workshops a year designed to help scientists be more productive using various software skills including Git/version control, R statistical software, and command line. I have extensive training in pedagogy including a year as a fellow in the [Professors for the Future program](https://gradpathways.ucdavis.edu/apply). 
 
 
 {% include section.html %}
