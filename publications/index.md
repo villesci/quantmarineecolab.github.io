@@ -13,7 +13,7 @@ We publish most of our work in both preprint journals and peer-reviewed journals
 
 # In the pipeline (preprint and/or in review)
 
-Stephen B. Heard, Chloe A. Cull, and Easton R. White. If this title is funny, will you cite me? Citation impacts of humour and other features of article titles in ecology and evolution [bioRxiv preprints](https://www.biorxiv.org/content/10.1101/2022.03.18.484880v1). In review.
+Julia Saltzman and Easton R. White. Determining the Role of Environmental Covariates on Planktivorous Elasmobranch Population Trends within an Isolated Marine Protected Area [Preprint](https://www.biorxiv.org/content/10.1101/2022.09.28.509935v1)
 
 Merrill Baker-Medard, Katherine Concannon, Courtney Gantt, Sierra Moen, Easton R. White. Socialscape Ecology: Integrating social factors into spatially-explicit marine conservation planning. In review. [Preprint](https://osf.io/preprints/socarxiv/m2kqa)
 
