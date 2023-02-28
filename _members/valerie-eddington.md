@@ -1,6 +1,6 @@
 ---
 name: Valerie Eddington
-image: images/team/valerie.jpeg
+image: images/valerie.jpeg
 role: grad
 group: current
 description: PhD Student
