@@ -11,7 +11,7 @@ nav:
   style="square"
 
   image1="images/research_topics/topic-monitoring.jpeg"
-  link1="https://quantmarineecolab.github.io/publications/"
+  link1="https://quantmarineecolab.github.io/research/monitoring"
   tooltip1="Ecological monitoring"
 
   image2="images/research_topics/topic-seafood.jpeg"
