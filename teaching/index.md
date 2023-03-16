@@ -13,26 +13,45 @@ I (Easton White) view teaching as a highly scientific enterprise. I read literat
 
 {% include section.html %}
 
-I currently teach several courses at UNH (materials and website are in the works!):
-
-## Data Science with R for the Life Sciences (BIOL 706/806)
-
-- Taught every Fall semester
-- This course tends to fill up very quickly. Please reach out to Easton if you are interested.
-- [Course catalog entry](https://courses.unh.edu/timeroom/202110?tcc=&Title=&Campus=&Subject=&Delivery=&Instructor=easton+white&Level=All+Graduate&Credits=&Time=&CRN=)
-- [Course website](https://quantmarineecolab.github.io/BIOL806/)
-- [Course materials (login required)](https://mycourses.unh.edu/courses/88910)
-
 ## Introductory Biology: Evolution, Biodiversity, and Ecology (BIOL 412) 
 
 Although this courses is taught every semester, I only teach it during the Fall terms.
 
 Summary: Evolution is the paradigm through which we understand Biology. This course will introduce students to evolutionary concepts that underlie the tremendous biodiversity present on Earth, and explore the ecological interactions that occur among individuals and species. Indoor and outdoor lab activities. Required for majors in the biological sciences. 
 
+- Taught every Fall semester
+- [Course catalog entry]([https://courses.unh.edu/timeroom/202110?tcc=&Title=&Campus=&Subject=&Delivery=&Instructor=easton+white&Level=All+Graduate&Credits=&Time=&CRN=](https://courses.unh.edu/timeroom/202310?tcc=&Title=&Campus=1&Subject=&Delivery=&Instructor=easton+white&Level=&Credits=&PTerm=&Time=&CRN=))
+
+{% include section.html %}
+
+
+## Quantitative Analysis and Reasoning for Marine Sciences (MEFB 633)
+
+MEFB 633 is a new course that is based at the Shoals Marine Laboratory. The field-based course combines important data science skills and marine field experience. Course spots are very limited. There are also lots of scholarship funds available. More details can be found on the [Shoals website](https://www.shoalsmarinelaboratory.org/r-sea-data-analysis-marine-sciences).
+
+- Taught during summers
+- [Course catalog entry]([[https://courses.unh.edu/timeroom/202110?tcc=&Title=&Campus=&Subject=&Delivery=&Instructor=easton+white&Level=All+Graduate&Credits=&Time=&CRN=](https://courses.unh.edu/timeroom/202310?tcc=&Title=&Campus=1&Subject=&Delivery=&Instructor=easton+white&Level=&Credits=&PTerm=&Time=&CRN=)](https://courses.unh.edu/timeroom/202270?%20tcc=&Title=&Campus=1&Subject=&Delivery=&Instructor=easton%20white&Level=&Credits=&PTerm=&Time=&CRN=))
+
+{% include section.html %}
+
+
+
+## Data Science with R for the Life Sciences (BIOL 706/806)
+
+- Taught every Fall semester
+- This course tends to fill up very quickly. Please reach out to Easton if you are interested.
+- [Course catalog entry]([https://courses.unh.edu/timeroom/202110?tcc=&Title=&Campus=&Subject=&Delivery=&Instructor=easton+white&Level=All+Graduate&Credits=&Time=&CRN=](https://courses.unh.edu/timeroom/202310?tcc=&Title=&Campus=1&Subject=&Delivery=&Instructor=easton+white&Level=&Credits=&PTerm=&Time=&CRN=))
+- [Course website](https://quantmarineecolab.github.io/BIOL806/)
+- [Course materials (login required)](https://mycourses.unh.edu/courses/88910)
+
+
+{% include section.html %}
 
 ## Theoretical Ecology (BIOL 80X)
 
 In Fall 2023, I will offer this course for the first time. A full schedule and syllabus will be posted here soon.
+
+- [Course catalog entry]([[https://courses.unh.edu/timeroom/202110?tcc=&Title=&Campus=&Subject=&Delivery=&Instructor=easton+white&Level=All+Graduate&Credits=&Time=&CRN=](https://courses.unh.edu/timeroom/202310?tcc=&Title=&Campus=1&Subject=&Delivery=&Instructor=easton+white&Level=&Credits=&PTerm=&Time=&CRN=)](https://courses.unh.edu/class/202310/15834))
 
 Course Description: Introduces students to the theoretical development of the field of ecology. Students will read historic and modern papers on topics ranging from the foundations of population and community ecology as well as applied examples. Students will also develop skills in building mathematical models and programming them into a computer language of their choice. The class culminates with a small group project analyzing a dataset, writing up findings in R markdown, and presenting to the course. 
 
