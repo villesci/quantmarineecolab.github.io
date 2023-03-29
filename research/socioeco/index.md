@@ -23,11 +23,12 @@ Our work on marine protected areas led to an interdisciplinary collaboration wit
 
 [Baker-Medard Merrill, White Easton R., and Elizabeth Fairchild. Socio-Ecological Feedbacks of Marine Protected Areas: Dynamics of Small-Scale Fishing Communities and Inshore Marine Ecosystems. National Science Foundation CNH2: Dynamics of Integrated Socio-Environmental Systems. $602,320. 2019-2024.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923707&HistoricalAwards=false)
 
+{% include section.html %}
 
 
+# Galapagos fisheries
 
-
-
+We have a new project on fisheries in the Galapagos Islands. We are interested in the interactions between small-scale fisheries and industrial fishing. We'll post details here as the project develops. 
 
 
 

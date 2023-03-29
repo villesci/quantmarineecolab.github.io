@@ -23,7 +23,7 @@ nav:
   tooltip3="Extreme events"
 
   image4="images/research_topics/topic-ses.jpeg"
-  link4="https://quantmarineecolab.github.io/publications/"
+  link4="https://quantmarineecolab.github.io/research/socioeco"
   tooltip4="Socio-ecological dynamics"
   
   image5="images/research_topics/topic-spatial.jpeg"
@@ -53,7 +53,7 @@ We address these questions using a variety of mathematical and statistical tools
 # <i class="fas field"></i>Field work
 
 
-In addition to lots of statistics and math, our lab also conducts some field work. Currently, we have a project in coastal New Hampshire. We are deploying a set of underwater cameras, some with bait (a BRUV - baited remote underwater video) and some without bait (a RUV), to track fish and invertebrates. The video allows us to monitor various populations, and to study animal behavior, without needing to scuba dive or catch any organisms. This helps reduce costs and is less invasive. This work is funded by New Hampshire Sea Grant and the School of Marine Science and Ocean Engineering. 
+In addition to lots of statistics and math, our lab also conducts field work. Currently, we have two projects in New Hampshire. The first project involves oyster aquaculture. In addition, we are deploying a set of underwater cameras, some with bait (a BRUV - baited remote underwater video) and some without bait (a RUV), to track fish and invertebrates. The video allows us to monitor various populations, and to study animal behavior, without needing to scuba dive or catch any organisms. This helps reduce costs and is less invasive. This work is funded by New Hampshire Sea Grant and the School of Marine Science and Ocean Engineering. 
 
 We are currently deploying these underwater cameras at Appledore Island in collaboration with the Shoals Marine Lab, within Great Bay at oyster farms and oyster restoration sites, and at the Coastal Marine Lab.  [Melanie Carolan](https://quantmarineecolab.github.io/members/melanie-carolan.html) (Vassar College) and [Harris Krasner](https://quantmarineecolab.github.io/members/harris-krasner.html) (University of New Hampshire) are working with QMEL graduate students [Ana Silverio](https://quantmarineecolab.github.io/members/ana-silverio.html) and [Julia Saltzman](https://quantmarineecolab.github.io/members/julia-saltzman.html) to deploy these cameras. Melanie is spending the summer deploying these cameras at [Shoals Marine Lab](https://www.shoalsmarinelaboratory.org/) on Appledore Island, which is about seven miles from mainland Maine. Harris will be using the same methods but will focus on Great Bay Estuary and coastal New Hampshire. The lab's other intern, [Katherine Pagán Rivera](https://quantmarineecolab.github.io/members/katherine-paganrivera.html) from the University of Puerto Rico at Humacao, will be using audio from hydrophones stationed along the New Hampshire coast to estimate biodiversity from sound alone.
 

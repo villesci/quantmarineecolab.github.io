@@ -17,39 +17,36 @@ The Quantitative Marine Ecology lab at the [University of New Hampshire](https:/
 
 
 
-# Highlights
-
-{% capture text %}
-We strive to make our work accessible and freely available to other scientists, decision makers, and the general public. Open and reproducible science is a key part of the lab culture. 
-
-[See what we've published &nbsp;→](publications)
-{:.center}
-{% endcapture %}
-
 {%
-  include feature.html
-  image="images/research_venn.png"
-  link="publications"
-  headline="Our Research"
-  text=text
+  include gallery.html
+  style="square"
+
+  image1="images/research_topics/topic-monitoring.jpeg"
+  link1="https://quantmarineecolab.github.io/research/monitoring"
+  tooltip1="Ecological monitoring"
+
+  image2="images/research_topics/topic-seafood.jpeg"
+  link2="https://quantmarineecolab.github.io/research/seafood"
+  tooltip2="Sustainable seafood"
+
+  image3="images/research_topics/topic-extreme.jpeg"
+  link3="https://quantmarineecolab.github.io/publications/"
+  tooltip3="Extreme events"
+
+  image4="images/research_topics/topic-ses.jpeg"
+  link4="https://quantmarineecolab.github.io/research/socioeco"
+  tooltip4="Socio-ecological dynamics"
+  
+  image5="images/research_topics/topic-spatial.jpeg"
+  link5="https://quantmarineecolab.github.io/publications/"
+  tooltip5="Spatial ecology"
+  
+    image6="images/research_topics/topic-bioed.jpeg"
+  link6="https://quantmarineecolab.github.io/publications/"
+  tooltip6="Biology education research"
+
+
 %}
-
-
-{% capture text %}
-We are a team of scientists that address both basic and applied questions in marine systems. We strive to build an inclusive environment in order to foster a more diverse, equitable, and productive scientific workforce. 
-
-[Meet our team &nbsp;→](team)
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/team_stock.jpg"
-  link="team"
-  headline="Our Team"
-  text=text
-%}
-
 
 <!-- section break -->
 
