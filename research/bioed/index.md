@@ -26,4 +26,4 @@ In collaboration with the [Aikens Lab](https://mypages.unh.edu/mla1011), we are 
 
 One common approach to help students be successful in their first-year introductory courses are summer bridge programs. At UC Davis, I taught the Biology Undergraduate Scholars Program (BUSP). We found that BUSP participants improved their biology knowledge through the summer bridge program. However, math confidence, SAT scores, Grit measures, and performance in the bridge program were not predictive of success in their biology course. We also found that BUSP students were more likely to remain in Life Science major and graduate.
 
-Poster of our findings available at: https://peerj.com/preprints/27816/
+Poster of our findings available at: [https://peerj.com/preprints/27816/](https://peerj.com/preprints/27816/)
