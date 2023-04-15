@@ -31,7 +31,7 @@ nav:
   tooltip5="Spatial ecology"
   
     image6="images/research_topics/topic-bioed.jpeg"
-  link6="https://quantmarineecolab.github.io/publications/"
+  link6="https://quantmarineecolab.github.io/esearch/bioed"
   tooltip6="Biology education research"
 
 
