@@ -3,7 +3,7 @@ name: Leandra Bryant
 image: images/headshots/leandra-bryant.jpg
 role: undergrad
 group: current
-description: Undergraduate Research Apprentice
+description: Undergraduate Apprentice
 aliases: 
   - Leandra Bryant
   - L. Bryant
