@@ -1,5 +1,37 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1093/biosci/biad015
+  title: Challenges and opportunities to build quantitative self-confidence in biologists
+  authors:
+  - Kim Cuddington
+  - Karen C Abbott
+  - Frederick R Adler
+  - Mehmet Aydeniz
+  - Rene Dale
+  - Louis J Gross
+  - Alan Hastings
+  - Elizabeth A Hobson
+  - Vadim A Karatayev
+  - Alexander Killion
+  - Aasakiran Madamanchi
+  - Michelle L Marraffini
+  - Audrey L McCombs
+  - Widodo Samyono
+  - Shin-Han Shiu
+  - Karen H Watanabe
+  - Easton R White
+  publisher: BioScience
+  date: '2023-04-29'
+  link: https://doi.org/gr7df6
+  image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_Bioscience.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_Cuddington_etal_BioScience.pdf
+  - type: blog
+    link: https://www.unh.edu/unhtoday/2023/05/quantitative-confidence
+  tags:
+  - biology education
+  - mathematical biology
 - id: 10.1139/facets-2022-0079
   title: If this title is funny, will you cite me? Citation impacts of humour and
     other features of article titles in ecology and evolution
