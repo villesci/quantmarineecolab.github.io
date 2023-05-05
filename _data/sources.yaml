@@ -1,5 +1,16 @@
 
 
+- id: 10.1093/biosci/biad015
+  image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_Bioscience.png
+  extra-links:
+    - type: pdf
+      link: pdfs/2023_Cuddington_etal_BioScience.pdf
+    - type: blog 
+      link: https://www.unh.edu/unhtoday/2023/05/quantitative-confidence
+  tags:
+    - biology education
+    - mathematical biology
+
 
 - id: 10.1139/facets-2022-0079
   image: https://quantmarineecolab.github.io/images/journal_covers/2023_Heard_etal_Facets.jpg
