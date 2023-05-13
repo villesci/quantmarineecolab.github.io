@@ -1,5 +1,5 @@
 ---
-title: New paper: Quantitative biology education
+title: New paper - Quantitative biology education
 author: Easton White
 member: easton-white 
 tags:
