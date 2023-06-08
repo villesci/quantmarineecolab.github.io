@@ -1,6 +1,6 @@
 ---
 name: Peyton Lockett
-image: images/headshots/peyton-lockett.jpeg
+image: images/headshots/peyton-lockett.jpg
 role: undergrad
 group: current
 description: Undergraduate Apprentice
