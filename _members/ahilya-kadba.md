@@ -2,7 +2,7 @@
 name: Ahilya Kadba
 image: images/headshots/ahilya_kadba.jpg
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate researcher
 aliases: 
   - Ahilya Kadba
