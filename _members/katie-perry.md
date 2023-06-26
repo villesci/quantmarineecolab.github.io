@@ -2,7 +2,7 @@
 name: Katie Perry
 image: images/KP_Headshot.jpg
 description: Researcher
-role: Researcher
+role: researcher
 group: alumni
 aliases:
   - K. Perry
