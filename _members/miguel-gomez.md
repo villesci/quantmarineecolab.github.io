@@ -3,7 +3,7 @@ name: Miguel Jesús Gómez García
 image: images/headshots/miguel-gomez.jpg
 role: grad
 group: current
-description: Graduate student
+description: PhD Student
 aliases:
   - M. Gomez
   - Miguel Jesús Gómez García 
