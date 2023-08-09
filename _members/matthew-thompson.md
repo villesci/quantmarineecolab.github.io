@@ -2,7 +2,7 @@
 name: Matthew Q. Thompson
 image: images/headshots/matthew-thompson.jpeg
 role: undergrad
-group: current
+group: notactive
 description: Undergraduate Apprentice
 aliases: 
   - Matthew Q. Thompson

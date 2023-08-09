@@ -2,7 +2,7 @@
 name: Peyton Lockett
 image: images/headshots/peyton-lockett.jpg
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate Apprentice
 aliases: 
   - Peyton Lockett
