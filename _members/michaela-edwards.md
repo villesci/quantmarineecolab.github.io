@@ -1,6 +1,6 @@
 ---
 name: Michaela Edwards
-image: images/michaela-edwards.jpeg
+image: images/headshots/michaela-edwards.jpeg
 role: grad
 group: current
 description: Graduate student
