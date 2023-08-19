@@ -7,6 +7,8 @@ nav:
 
 # <i class="fas join"></i>Join the Lab
 
+Our [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md) is a living document and lays out expectations of lab members. 
+
 
 All lab members must:
 - Be decent human beings (we don’t work with jerks) 
@@ -15,7 +17,7 @@ All lab members must:
 
 Members of the lab are strongly committed to anti-racist practices, real diversity and inclusion efforts, and moving science beyond the ivory tower.
 
-Our [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md) is a living document and lays out expectations of lab members. 
+
 
 ## Commitment to diversity, inclusion, and equity
 
@@ -34,18 +36,31 @@ After completing this [form](https://forms.gle/16fogrHEX7duePXw5), please send <
 
 ## Graduate students
 
-I am currently reviewing applications for two graduate positions to start in January 2024 or Fall 2024. Students could work on a variety of projects, including the socio-ecological dynamics of small-scale fisheries, aquaculture mathematical modeling, or decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work. A basic understanding of Spanish, French, or American Sign Languagge is a plus for some of the lab's projects. If you are interested, please fill out this [brief survey](https://forms.gle/v8SeNbqEw1GL1f1M6) and then send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
+I am currently reviewing applications for two graduate positions to start in January 2024 or Fall 2024. Students could work on a variety of projects, including the socio-ecological dynamics of small-scale fisheries, aquaculture mathematical modeling, or decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work. A basic understanding of Spanish, French, or American Sign Language is a plus for some of the lab's projects. If you are interested, please fill out this [brief survey](https://forms.gle/v8SeNbqEw1GL1f1M6) and then send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
 
 Our [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md) is a living document and lays out expectations of lab members. 
 
 I can accept students through [UNH's Biological Sciences MS and PhD programs.](https://colsa.unh.edu/biological-sciences) There are specific programs in Integrative Biology (IB) and Marine Biology (MB). The priority deadline for Fall admission is January 15th each year. Although less common, I can also accept student through the [Oceanography](https://ceps.unh.edu/earth-sciences/academics) and [Integrated Applied Mathematics](https://ceps.unh.edu/integrated-applied-mathematics/academics) programs at UNH. If you are interested in working with me, I strongly recommended that you reach out to me before applying for graduate study. Graduate work is typically funded through a combination of fellowships, research positions, and teaching assistantships. Currently, the minimum yearly salary for a graduate student in QMEL is $30,996 per year (including summer). The salary increases each year and is higher if you already have a MS degree. Health insurance and tuition are also covered by the lab/university. When we make an offer to a graduate student, their funding  is described in detail in an offer letter. 
 
+In addition to funding I might have, I encourage my own students and applicants to apply for various grants and fellowships:
+- [Fulbright Program](https://us.fulbrightonline.org/) - this is for non-US residents to study and work in the US - due in October (depends a bit on the country) each year
+- [NSF GRFP](https://www.nsfgrfp.org/) - Award is for three years of funding - lots of restrictions on who can apply - due in October each year
+- [Paul and Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) - Due in November each year
+- [Hertz Fellowship](https://www.hertzfoundation.org/the-fellowship/apply-for-fellowship/) - Fellowships to PhD students in the applied physical and biological sciences, mathematics, or engineering - due in October each year
+- [Ford Foundation Fellowship](https://sites.nationalacademies.org/pga/fordfellowships/index.htm)
+- [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/)
+- [List of other fellowships](https://grad.ncsu.edu/student-funding/fellowships-and-grants/national/nationally-competitive-graduate-fellowships/)
+- [Another fellowship database](https://www.pathwaystoscience.org/grad.aspx)
+
+
 Depending on your specific interests, I might not be the best advisor for you at UNH. You may also want to reach out to [Dr. Melissa Aikens (plants, biology education)](https://colsa.unh.edu/person/melissa-aikens), [Dr. Elizabeth Fairchild (fish, fisheries)](https://colsa.unh.edu/person/elizabeth-fairchild), [Dr. Nathan Furey (fishes, sharks, animal movement)](https://colsa.unh.edu/person/nathan-furey), [Dr. Elizabeth Harvey (phytoplankton, harmful algal blooms)](https://colsa.unh.edu/person/elizabeth-harvey), [Dr. Brittany Jellison (marine invertebrates, intertidal systems, climate change)](https://colsa.unh.edu/person/brittany-jellison), [Dr. Gregg Moore (marine plants, restoration)](https://colsa.unh.edu/person/gregg-moore), and others in the [Biology Department](https://colsa.unh.edu/biological-sciences/people) or within the [College of Life Science And Agriculture](https://colsa.unh.edu/). 
+
+
 
 
 ## Postdoctoral fellows
 
-In 2024, I will likely soon be looking for postdoctoral fellows to work on questions related to fisheries and disturbances, mathematical modeling of disturbances and socio-environmental systems, improving population monitoring and data collection, sustainable seafood, or synthesizing across socio-environmental fisheries. My background is in quantitative ecology with an emphasis on marine systems. However, my interests are broad and I am happy to discuss other project ideas further. I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs.
+I am not currently recruiting for postdoctoral fellows. I may recruit a postdoc in 2024. I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs.
 
 - [Shoals Marine Lab Scientist-in-Residence Fellowship](https://www.shoalsmarinelaboratory.org/sirf) - due Apr 22nd
 - [Gund postdoctoral fellow program (based at the University of Vermont)](http://go.uvm.edu/nia9k) - due Nov 11th
