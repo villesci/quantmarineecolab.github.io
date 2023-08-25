@@ -21,4 +21,6 @@ I currently conduct research on assessing the effectiveness of protected area ne
 
 [Easton's CV as a pdf](https://quantmarineecolab.github.io/pdfs/EastonWhite_CV.pdf)
 
+Co-author network on peer-reviewed publications
+
 ![](/images/mynetwork.png)
