@@ -9,6 +9,8 @@ aliases:
   - Ana Silverio
 links:
   twitter: aqua__ana
+  email: anacsilverio19@gmail.com
+  github: anasilverio19
 ---
 
 Ana Silverio (she/her/ella) is a first generation Mexican-American marine ecologist studying coastal fisheries and extreme events. 
