@@ -7,20 +7,28 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>News
 
+<iframe src="https://quantecology.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+
 <div id="substack-feed-embed"></div>
 
 
 <script>
   window.SubstackFeedWidget = {
     substackUrl: "quantecology.substack.com",
-    posts: 12
+    posts: 10,
+    layout: "right",
+    hidden: ["reactions", "comments"]
   };
 </script>
 <script src="https://substackapi.com/embeds/feed.js" async></script>
 
 
 
-## News
+<iframe src="https://quantecology.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+
+## Twitter
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
