@@ -7,13 +7,18 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>News
 
-{% include section.html %}
+<div id="substack-feed-embed"></div>
 
-{% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+<script>
+  window.SubstackFeedWidget = {
+    substackUrl: "quantecology.substack.com",
+    posts: 12
+  };
+</script>
+<script src="https://substackapi.com/embeds/feed.js" async></script>
 
-{% include section.html %}
+
 
 ## News
 
