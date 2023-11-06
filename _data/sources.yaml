@@ -1,5 +1,18 @@
 
 
+- id: 10.3354/meps14435
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
+  extra-links:
+    - type: pdf
+      link: pdfs/2023_SaltzmanWhite_MEPS.pdf
+  tags:
+    - sharks and rays
+    - species trends
+
+
+
+
+
 - id: 10.1093/biosci/biad015
   image: https://quantmarineecolab.github.io/images/journal_covers/2019_White_Bioscience.png
   extra-links:
