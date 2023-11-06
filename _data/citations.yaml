@@ -1,5 +1,21 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.3354/meps14435
+  title: Determining the role of environmental covariates on planktivorous elasmobranch
+    population trends within an isolated marine protected area
+  authors:
+  - J Saltzman
+  - ER White
+  publisher: Marine Ecology Progress Series
+  date: '2023-01-01'
+  link: https://doi.org/gs3s83
+  image: https://quantmarineecolab.github.io/images/journal_covers/2014_Kessel_etal_MEPS.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_SaltzmanWhite_MEPS.pdf
+  tags:
+  - sharks and rays
+  - species trends
 - id: 10.1093/biosci/biad015
   title: Challenges and opportunities to build quantitative self-confidence in biologists
   authors:
