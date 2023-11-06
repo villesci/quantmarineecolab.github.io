@@ -60,7 +60,11 @@ Depending on your specific interests, I might not be the best advisor for you at
 
 ## Postdoctoral fellows
 
-I am not currently recruiting for postdoctoral fellows. I may recruit a postdoc in 2024. I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs.
+I am currently recruiting for a postdoctoral fellow in quantitative fisheries science. The applicant is expected to have a strong data science or mathematical background. There is a lot of flexibility for the postdoc to choose their own specific projects. Projects will revolve around small-scale and industrial fisheries questions, especially in relation to our [ongoing work in Madagascar](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923707&HistoricalAwards=false).  I will begin reviewing applications on Oct 25, 2023. The position start date is flexible, but January 2024 is ideal. Applicants must have a desire to mentor and promote an inclusive environment. If you are interested, please send an email and CV to Easton White (<Easton.White@unh.edu>). 
+
+
+
+I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs.
 
 - [Shoals Marine Lab Scientist-in-Residence Fellowship](https://www.shoalsmarinelaboratory.org/sirf) - due Apr 22nd
 - [Gund postdoctoral fellow program (based at the University of Vermont)](http://go.uvm.edu/nia9k) - due Nov 11th
