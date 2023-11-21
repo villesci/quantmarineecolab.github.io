@@ -1,5 +1,63 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.32942/X2CC97
+  title: Refining the trophic diversity, ecological network structure, and bottom-up
+    importance of prey groups for temperate reef fishes
+  authors:
+  - Salvador Zarco-Perello
+  - Scott Bennett
+  - Jordan Goetze
+  - Tom Holmes
+  - Rick Stuart-Smith
+  - Easton White
+  publisher: California Digital Library (CDL)
+  date: '2023-11-07'
+  link: https://doi.org/gs52ph
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_Zarco-Perello_etal_ecoevorxiv.pdf
+  tags:
+  - ecological networks
+  - monitoring
+- id: 10.32942/X29G7W
+  title: Extreme events and coupled socio-ecological systems
+  authors:
+  - Easton White
+  - Sophie Wulfing
+  publisher: California Digital Library (CDL)
+  date: '2023-11-20'
+  link: https://doi.org/gs52pj
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_WhiteWulfing_ecoevorxiv.pdf
+  tags:
+  - socio-ecological
+  - fisheries
+- id: 10.32942/X2J60N
+  title: Industrial fishing compliance with a new marine corridor near the Galapagos
+    Islands
+  authors:
+  - Easton White
+  - Alex Hearn
+  - Nicolas Moity
+  - "Jorge Ram\xEDrez-Gonz\xE1lez"
+  - Julia Saltzman
+  - "C\xE9sar Viteri-Mej\xEDa"
+  - Sarah Enright
+  - "Mar\xEDa Barrag\xE1n-Paladines"
+  publisher: California Digital Library (CDL)
+  date: '2023-10-30'
+  link: https://doi.org/gs52pk
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_Whiteetal_ecoevorxiv.pdf
+  tags:
+  - sharks and rays
+  - fisheries
+  - seafood
 - id: 10.3354/meps14435
   title: Determining the role of environmental covariates on planktivorous elasmobranch
     population trends within an isolated marine protected area
