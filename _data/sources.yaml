@@ -1,9 +1,19 @@
 
 
+- id: 0.1186/s44263-023-00028-z
+  image: https://quantmarineecolab.github.io/images/journal_covers/2023_Althouse_etal_BMC.jpg
+  extra-links:
+    - type: pdf
+      link: pdfs/2023_Althouse_etal_BMC.pdf
+  tags:
+    - infectious diseases
+    - mathematical biology
+
+
 
 
 - id: 10.32942/X2CC97
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   extra-links:
     - type: pdf
       link: pdfs/2023_Zarco-Perello_etal_ecoevorxiv.pdf
@@ -16,7 +26,7 @@
 
 
 - id: 10.32942/X29G7W
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   extra-links:
     - type: pdf
       link: pdfs/2023_WhiteWulfing_ecoevorxiv.pdf
@@ -28,7 +38,7 @@
 
 
 - id: 10.32942/X2J60N
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   extra-links:
     - type: pdf
       link: pdfs/2023_Whiteetal_ecoevorxiv.pdf
