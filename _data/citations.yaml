@@ -13,7 +13,7 @@
   publisher: California Digital Library (CDL)
   date: '2023-11-07'
   link: https://doi.org/gs52ph
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   extra-links:
   - type: pdf
     link: pdfs/2023_Zarco-Perello_etal_ecoevorxiv.pdf
@@ -28,7 +28,7 @@
   publisher: California Digital Library (CDL)
   date: '2023-11-20'
   link: https://doi.org/gs52pj
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   extra-links:
   - type: pdf
     link: pdfs/2023_WhiteWulfing_ecoevorxiv.pdf
@@ -50,7 +50,7 @@
   publisher: California Digital Library (CDL)
   date: '2023-10-30'
   link: https://doi.org/gs52pk
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
   extra-links:
   - type: pdf
     link: pdfs/2023_Whiteetal_ecoevorxiv.pdf
@@ -71,6 +71,8 @@
   extra-links:
   - type: pdf
     link: pdfs/2023_SaltzmanWhite_MEPS.pdf
+  - type: blog
+    link: https://www.forbes.com/sites/melissacristinamarquez/2023/12/01/unveiling-the-secrets-of-planktivorous-sharks
   tags:
   - sharks and rays
   - species trends
