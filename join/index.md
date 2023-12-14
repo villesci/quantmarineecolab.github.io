@@ -46,11 +46,15 @@ In addition to funding I might have, I encourage my own students and applicants 
 - [Fulbright Program](https://us.fulbrightonline.org/) - this is for non-US residents to study and work in the US - due in October (depends a bit on the country) each year
 - [NSF GRFP](https://www.nsfgrfp.org/) - Award is for three years of funding - lots of restrictions on who can apply - due in October each year
 - [Paul and Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) - Due in November each year
+- [NOAA-NMFS Population Dynamics Fellowship](https://seagrant.noaa.gov/nmfs-sg-fellowship/) - The fellowship can provide support for up to three years for highly qualified graduate students working towards a Ph.D. in quantitative programs 
 - [Hertz Fellowship](https://www.hertzfoundation.org/the-fellowship/apply-for-fellowship/) - Fellowships to PhD students in the applied physical and biological sciences, mathematics, or engineering - due in October each year
+- [Gillam Fellows Program](https://www.hhmi.org/programs/gilliam-fellows) - program to advance equity and inclusion in science. Each adviser-student pair receives an annual award of $53,000 for up to three years. 
+- [Boren Language Awards](https://www.borenawards.org/)
 - [Ford Foundation Fellowship](https://sites.nationalacademies.org/pga/fordfellowships/index.htm)
 - [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/)
 - [List of other fellowships](https://grad.ncsu.edu/student-funding/fellowships-and-grants/national/nationally-competitive-graduate-fellowships/)
 - [Another fellowship database](https://www.pathwaystoscience.org/grad.aspx)
+- [And yet another database](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/selectedValues=11&31&28&SearchBy=)
 
 
 Depending on your specific interests, I might not be the best advisor for you at UNH. You may also want to reach out to [Dr. Melissa Aikens (plants, biology education)](https://colsa.unh.edu/person/melissa-aikens), [Dr. Elizabeth Fairchild (fish, fisheries)](https://colsa.unh.edu/person/elizabeth-fairchild), [Dr. Nathan Furey (fishes, sharks, animal movement)](https://colsa.unh.edu/person/nathan-furey), [Dr. Elizabeth Harvey (phytoplankton, harmful algal blooms)](https://colsa.unh.edu/person/elizabeth-harvey), [Dr. Brittany Jellison (marine invertebrates, intertidal systems, climate change)](https://colsa.unh.edu/person/brittany-jellison), [Dr. Gregg Moore (marine plants, restoration)](https://colsa.unh.edu/person/gregg-moore), and others in the [Biology Department](https://colsa.unh.edu/biological-sciences/people) or within the [College of Life Science And Agriculture](https://colsa.unh.edu/). 
