@@ -9,6 +9,8 @@ nav:
 
 We publish most of our work in both preprint journals and peer-reviewed journals. Where possible, we have also included links to data and code used in each paper. Please reach out if you have any questions or thoughts on our work. 
 
+You can also find our publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=N7onVOEAAAAJ).
+
 {% include section.html %}
 
 
