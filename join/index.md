@@ -24,6 +24,44 @@ Members of the lab are strongly committed to anti-racist practices, real diversi
 One of my main commitments as a faculty member is promoting and supporting diversity, equity, and inclusion in STEM. Please consider applying for a position in my lab if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability.
 
 
+## Current opening - Undergraduate Paid Summer internship, Oyster Ecology and Data Science in New Hampshire
+
+Please fill out our Google Form at [https://forms.gle/LBT6ugw9TwDemcVK6](https://forms.gle/LBT6ugw9TwDemcVK6) to apply. Any questions can be directed to <drew.villeneuve@unh.edu>, but no applications will be accepted at this email address.
+
+The intern will assist graduate students with laboratory experiments to help understand the impacts of heatwaves on oyster survival at flowing seawater facilities at the University of New Hampshire’s Coastal Marine Lab in Portsmouth, NH and Jackson Estuarine Lab in Durham, NH. In addition, the intern will have the opportunity to assist on field work monitoring oyster populations in Great Bay, NH and learn quantitative tools used in our work. The intern will take on more responsibilities as the summer progresses, completing laboratory experiments without direct supervision and potentially undertaking their own independent research. Interns will have opportunities to learn R programming, data science, and statistical analysis. We also have opportunities to build and test novel Arduino biosensors to measure oyster activity if the intern has an interest in microprocessor applications. 
+Start and end dates are flexible, but generally expected from June to August for a minimum of ten weeks. 
+
+### Responsibilities
+
+- Performing aquatic husbandry and maintenance of flowing seawater systems.
+- Assist QMEL graduate students with ongoing laboratory experiments manipulating temperature in seawater mesocosms.
+- Performing data entry and quality control. 
+- Assist researchers with field work tracking oyster population trends.
+
+### Required Qualifications
+
+- Excellent organizational skills 
+- Able to work independently and creatively.
+- Previous experience with scientific data entry and processing.
+- Intern should be willing to work on boats and in variable weather conditions.
+- Demonstrated interests in ecology, zoology, marine science, climate change, and/or aquaculture.
+
+### Desired Qualifications (not required, but any are a plus)
+
+- Knowledge of statistics or R programming.
+- Previous laboratory research experience. 
+- Previous experience caring for aquatic organisms. 
+- Access to private vehicle and driver’s license.
+- Experience with Arduino microcontroller and programming.
+
+### Benefits 
+
+Interns will receive $5000 in compensation. We can assist students finding local housing if needed. You will have the opportunity to hone your ecological lab and field skills, take part in lab meetings, meet diverse scientist within QMEL and with our research partners, and develop your own research as part of your summer with QMEL. 
+We are an inclusive lab group dedicated to promoting diversity, equity, and inclusion. We highly encourage you to apply to work with us if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability. 
+
+Please fill out our Google Form at [https://forms.gle/LBT6ugw9TwDemcVK6](https://forms.gle/LBT6ugw9TwDemcVK6) to apply. Any questions can be directed to <drew.villeneuve@unh.edu>, but no applications will be accepted at this email address.
+
+
 
 ## Undergraduate students
 
@@ -36,7 +74,7 @@ After completing this [form](https://forms.gle/16fogrHEX7duePXw5), please send <
 
 ## Graduate students
 
-I am currently reviewing applications for two graduate positions to start in January 2024 or Fall 2024. I will also likely accept 1-2 students in 2025. Students could work on a variety of projects, including the socio-ecological dynamics of small-scale fisheries, aquaculture mathematical modeling, or decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work. A basic understanding of Spanish, French, or American Sign Language is a plus for some of the lab's projects. If you are interested, please fill out this [brief survey](https://forms.gle/v8SeNbqEw1GL1f1M6) and then send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
+I am currently reviewing applications for two graduate positions to start in Fall 2024. I will also likely accept 1-2 students in 2025. Students could work on a variety of projects, including the socio-ecological dynamics of small-scale fisheries, aquaculture mathematical modeling, or decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work. A basic understanding of Spanish, French, or American Sign Language is a plus for some of the lab's projects. If you are interested, please fill out this [brief survey](https://forms.gle/v8SeNbqEw1GL1f1M6) and then send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
 
 Our [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md) is a living document and lays out expectations of lab members. 
 
