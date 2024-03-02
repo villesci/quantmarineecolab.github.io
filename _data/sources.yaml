@@ -14,18 +14,6 @@
 
 
 
-
-- id: 0.1186/s44263-023-00028-z
-  image: https://quantmarineecolab.github.io/images/journal_covers/2023_Althouse_etal_BMC.jpg
-  extra-links:
-    - type: pdf
-      link: pdfs/2023_Althouse_etal_BMC.pdf
-  tags:
-    - infectious diseases
-    - mathematical biology
-
-
-
 - id: 10.1186/s44263-023-00028-z
   image: https://quantmarineecolab.github.io/images/journal_covers/2023_Althouse_etal_BMC.jpg
   extra-links:
@@ -50,21 +38,6 @@
   tags:
     - socio-ecological dynamics
     - fisheries
-
-
-
-
-- id: 10.32942/X29W4W
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.png
-  extra-links:
-    - type: pdf
-      link: pdfs/2024_VilleneuveWhite_ecoevorxiv.pdf
-    - type: source
-      link: https://github.com/villesci/mhw_simulation_manuscript
-      text: Code
-  tags:
-    - marine heatwaves
-    - extreme events
 
 
 
