@@ -24,6 +24,44 @@ Members of the lab are strongly committed to anti-racist practices, real diversi
 One of my main commitments as a faculty member is promoting and supporting diversity, equity, and inclusion in STEM. Please consider applying for a position in my lab if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability.
 
 
+## Current opening - Undergraduate Paid Summer internship, Oyster Ecology and Data Science in New Hampshire
+
+Please fill out our Google Form at [https://forms.gle/LBT6ugw9TwDemcVK6](https://forms.gle/LBT6ugw9TwDemcVK6) to apply. Any questions can be directed to <drew.villeneuve@unh.edu>, but no applications will be accepted at this email address.
+
+The intern will assist graduate students with laboratory experiments to help understand the impacts of heatwaves on oyster survival at flowing seawater facilities at the University of New Hampshire’s Coastal Marine Lab in Portsmouth, NH and Jackson Estuarine Lab in Durham, NH. In addition, the intern will have the opportunity to assist on field work monitoring oyster populations in Great Bay, NH and learn quantitative tools used in our work. The intern will take on more responsibilities as the summer progresses, completing laboratory experiments without direct supervision and potentially undertaking their own independent research. Interns will have opportunities to learn R programming, data science, and statistical analysis. We also have opportunities to build and test novel Arduino biosensors to measure oyster activity if the intern has an interest in microprocessor applications. 
+Start and end dates are flexible, but generally expected from June to August for a minimum of ten weeks. 
+
+### Responsibilities
+
+- Performing aquatic husbandry and maintenance of flowing seawater systems.
+- Assist QMEL graduate students with ongoing laboratory experiments manipulating temperature in seawater mesocosms.
+- Performing data entry and quality control. 
+- Assist researchers with field work tracking oyster population trends.
+
+### Required Qualifications
+
+- Excellent organizational skills 
+- Able to work independently and creatively.
+- Previous experience with scientific data entry and processing.
+- Intern should be willing to work on boats and in variable weather conditions.
+- Demonstrated interests in ecology, zoology, marine science, climate change, and/or aquaculture.
+
+### Desired Qualifications (not required, but any are a plus)
+
+- Knowledge of statistics or R programming.
+- Previous laboratory research experience. 
+- Previous experience caring for aquatic organisms. 
+- Access to private vehicle and driver’s license.
+- Experience with Arduino microcontroller and programming.
+
+### Benefits 
+
+Interns will receive $5000 in compensation. We can assist students finding local housing if needed. You will have the opportunity to hone your ecological lab and field skills, take part in lab meetings, meet diverse scientist within QMEL and with our research partners, and develop your own research as part of your summer with QMEL. 
+We are an inclusive lab group dedicated to promoting diversity, equity, and inclusion. We highly encourage you to apply to work with us if you are a first-generation college student, a student from a low-income background, a member of a racial or ethnic minority group, if you identify as a woman or as LGBTQ+, and/or if you have a disability. 
+
+Please fill out our Google Form at [https://forms.gle/LBT6ugw9TwDemcVK6](https://forms.gle/LBT6ugw9TwDemcVK6) to apply. Any questions can be directed to <drew.villeneuve@unh.edu>, but no applications will be accepted at this email address.
+
+
 
 ## Undergraduate students
 
@@ -36,7 +74,7 @@ After completing this [form](https://forms.gle/16fogrHEX7duePXw5), please send <
 
 ## Graduate students
 
-I am currently reviewing applications for two graduate positions to start in January 2024 or Fall 2024. Students could work on a variety of projects, including the socio-ecological dynamics of small-scale fisheries, aquaculture mathematical modeling, or decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work. A basic understanding of Spanish, French, or American Sign Language is a plus for some of the lab's projects. If you are interested, please fill out this [brief survey](https://forms.gle/v8SeNbqEw1GL1f1M6) and then send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
+I am currently reviewing applications for two graduate positions to start in Fall 2024. I will also likely accept 1-2 students in 2025. Students could work on a variety of projects, including the socio-ecological dynamics of small-scale fisheries, aquaculture mathematical modeling, or decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R, quantitative skills (e.g., mathematical modeling, statistics), and field work. A basic understanding of Spanish, French, or American Sign Language is a plus for some of the lab's projects. If you are interested, please fill out this [brief survey](https://forms.gle/v8SeNbqEw1GL1f1M6) and then send <Easton.White@unh.edu> a CV and brief introduction, including details of your prior research experience, as well as your research interests and graduate school goals and how you think these align with my research program. It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
 
 Our [lab handbook](https://github.com/QuantMarineEcoLab/lab-onboarding/blob/main/qmel-onboarding.md) is a living document and lays out expectations of lab members. 
 
@@ -46,11 +84,15 @@ In addition to funding I might have, I encourage my own students and applicants 
 - [Fulbright Program](https://us.fulbrightonline.org/) - this is for non-US residents to study and work in the US - due in October (depends a bit on the country) each year
 - [NSF GRFP](https://www.nsfgrfp.org/) - Award is for three years of funding - lots of restrictions on who can apply - due in October each year
 - [Paul and Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) - Due in November each year
+- [NOAA-NMFS Population Dynamics Fellowship](https://seagrant.noaa.gov/nmfs-sg-fellowship/) - The fellowship can provide support for up to three years for highly qualified graduate students working towards a Ph.D. in quantitative programs 
 - [Hertz Fellowship](https://www.hertzfoundation.org/the-fellowship/apply-for-fellowship/) - Fellowships to PhD students in the applied physical and biological sciences, mathematics, or engineering - due in October each year
+- [Gillam Fellows Program](https://www.hhmi.org/programs/gilliam-fellows) - program to advance equity and inclusion in science. Each adviser-student pair receives an annual award of $53,000 for up to three years. 
+- [Boren Language Awards](https://www.borenawards.org/)
 - [Ford Foundation Fellowship](https://sites.nationalacademies.org/pga/fordfellowships/index.htm)
 - [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/)
 - [List of other fellowships](https://grad.ncsu.edu/student-funding/fellowships-and-grants/national/nationally-competitive-graduate-fellowships/)
 - [Another fellowship database](https://www.pathwaystoscience.org/grad.aspx)
+- [And yet another database](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/selectedValues=11&31&28&SearchBy=)
 
 
 Depending on your specific interests, I might not be the best advisor for you at UNH. You may also want to reach out to [Dr. Melissa Aikens (plants, biology education)](https://colsa.unh.edu/person/melissa-aikens), [Dr. Elizabeth Fairchild (fish, fisheries)](https://colsa.unh.edu/person/elizabeth-fairchild), [Dr. Nathan Furey (fishes, sharks, animal movement)](https://colsa.unh.edu/person/nathan-furey), [Dr. Elizabeth Harvey (phytoplankton, harmful algal blooms)](https://colsa.unh.edu/person/elizabeth-harvey), [Dr. Brittany Jellison (marine invertebrates, intertidal systems, climate change)](https://colsa.unh.edu/person/brittany-jellison), [Dr. Gregg Moore (marine plants, restoration)](https://colsa.unh.edu/person/gregg-moore), and others in the [Biology Department](https://colsa.unh.edu/biological-sciences/people) or within the [College of Life Science And Agriculture](https://colsa.unh.edu/). 
@@ -60,7 +102,7 @@ Depending on your specific interests, I might not be the best advisor for you at
 
 ## Postdoctoral fellows
 
-I am currently recruiting for a postdoctoral fellow in quantitative fisheries science. The applicant is expected to have a strong data science or mathematical background. There is a lot of flexibility for the postdoc to choose their own specific projects. Projects will revolve around small-scale and industrial fisheries questions, especially in relation to our [ongoing work in Madagascar](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923707&HistoricalAwards=false).  I will begin reviewing applications on Oct 25, 2023. The position start date is flexible, but January 2024 is ideal. Applicants must have a desire to mentor and promote an inclusive environment. If you are interested, please send an email and CV to Easton White (<Easton.White@unh.edu>). 
+In 2024, I may recruit for a postdoctoral fellow. The applicant would be expected to have a strong data science or mathematical background. There is a lot of flexibility for a postdoc to choose their own specific projects. Projects will revolve around small-scale and industrial fisheries questions, especially in relation to our [ongoing work in Madagascar](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923707&HistoricalAwards=false).  I will begin reviewing applications on Oct 25, 2023. The position start date is flexible, but January 2024 is ideal. Applicants must have a desire to mentor and promote an inclusive environment. If you are interested, please send an email and CV to Easton White (<Easton.White@unh.edu>). 
 
 
 
