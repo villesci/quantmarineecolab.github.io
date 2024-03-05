@@ -1,5 +1,66 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.32942/X29W4W
+  title: Predicting organismal response to marine heatwaves using mechanistic thermal
+    landscape models
+  authors:
+  - Andrew Villeneuve
+  - Easton White
+  publisher: California Digital Library (CDL)
+  date: '2024-01-23'
+  link: https://doi.org/gtg9gs
+  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_VilleneuveWhite_ecoevorxiv.pdf
+  - type: source
+    link: https://github.com/villesci/mhw_simulation_manuscript
+    text: Code
+  tags:
+  - extreme events
+  - oysters
+  - heatwaves
+- id: 10.1186/s44263-023-00028-z
+  title: The unintended consequences of inconsistent closure policies and mobility
+    restrictions during epidemics
+  authors:
+  - Benjamin M. Althouse
+  - Brendan Wallace
+  - B. K. M. Case
+  - Samuel V. Scarpino
+  - Antoine Allard
+  - Andrew M. Berdahl
+  - Easton R. White
+  - "Laurent H\xE9bert-Dufresne"
+  publisher: BMC Global and Public Health
+  date: '2023-12-04'
+  link: https://doi.org/gtkf4s
+  image: https://quantmarineecolab.github.io/images/journal_covers/2023_Althouse_etal_BMC.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2023_Althouse_etal_BMC.pdf
+  - type: source
+    link: https://github.com/LaurentHebert/cloSIR
+    text: Code
+  tags:
+  - COVID-19
+  - infectious diseases
+- id: 10.1101/2024.02.17.580847
+  title: Social-ecological models with social hierarchy and spatial structure applied
+    to small scale fisheries
+  authors:
+  - Sophie Wulfing
+  - Easton R. White
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-02-21'
+  link: https://doi.org/gtkf4t
+  image: https://quantmarineecolab.github.io/images/journal_covers/biorxiv_logo.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2024_WulfingWhite_biorxiv.pdf
+  tags:
+  - socio-ecological dynamics
+  - fisheries
 - id: 10.32942/X2CC97
   title: Refining the trophic diversity, ecological network structure, and bottom-up
     importance of prey groups for temperate reef fishes
